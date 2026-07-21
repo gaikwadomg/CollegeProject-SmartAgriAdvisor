@@ -93,6 +93,12 @@ class InputGroup(ctk.CTkFrame):
         self.input.configure(border_color=ThemeManager.get_color("card"))
         self.error_label.grid_remove()
         
+    def set_options(self, options):
+        if isinstance(self.input, ctk.CTkComboBox):
+            self.input.configure(values=options)
+            if options:
+                self.input.set(options[0])
+
     def clear(self):
         self.clear_error()
         if isinstance(self.input, ctk.CTkEntry):

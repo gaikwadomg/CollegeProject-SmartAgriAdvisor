@@ -1,0 +1,1201 @@
+Crop,Disease,Season,Temperature,Humidity,Pesticide
+Grape,Downy Mildew (Plasmopara viticola),Rabi,20.2,80.8,Metalaxyl 8% + Mancozeb 64% WP
+Wheat,Aphids (Sitobion avenae),Rabi,22.5,80.5,Thiamethoxam 25% WG
+Grape,Powdery Mildew (Uncinula necator),Rabi,32.8,70.0,Penconazole 10% EC
+Apple,Apple Scab (Venturia inaequalis),Whole Year,26.4,41.6,Captan 50% WP
+Wheat,Powdery Mildew,Rabi,22.7,73.1,Wettable Sulfur 80% WP
+Potato,Early Blight,Rabi,22.0,75.7,Difenoconazole 25% EC
+Potato,Early Blight,Rabi,26.4,64.7,Difenoconazole 25% EC
+Maize,Fall Armyworm (Spodoptera frugiperda),Kharif,34.2,40.4,Emamectin Benzoate 5% SG
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,21.2,63.2,Carbendazim 50% WP (Drenching)
+Maize,Fall Armyworm (Spodoptera frugiperda),Kharif,21.1,92.6,Emamectin Benzoate 5% SG
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,20.0,60.9,Spinetoram 11.7% SC
+Cotton,Whitefly (Bemisia tabaci),Kharif,34.9,73.2,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,18.9,65.3,Carbendazim 50% WP (Drenching)
+Rice,Bacterial Leaf Blight,Kharif,37.5,60.8,Streptocycline + Copper Oxychloride
+Potato,Early Blight,Rabi,23.9,74.6,Difenoconazole 25% EC
+Cotton,Whitefly (Bemisia tabaci),Kharif,29.5,78.8,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Rice,Brown Spot (Bipolaris oryzae),Kharif,31.2,82.5,Mancozeb 75% WP
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,35.1,87.7,Chlorantraniliprole 18.5% SC
+Cotton,Aphids & Jassids,Kharif,23.6,75.0,Flonicamid 50% WG
+Cotton,Whitefly (Bemisia tabaci),Kharif,21.3,59.5,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Grape,Powdery Mildew (Uncinula necator),Rabi,23.3,91.5,Penconazole 10% EC
+Grape,Downy Mildew (Plasmopara viticola),Rabi,19.4,74.9,Metalaxyl 8% + Mancozeb 64% WP
+Potato,Early Blight,Rabi,32.6,49.0,Difenoconazole 25% EC
+Cotton,Aphids & Jassids,Kharif,23.4,90.9,Flonicamid 50% WG
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,29.1,77.7,Carbendazim 50% WP (Sett Treatment)
+Banana,Sigatoka Leaf Spot,Whole Year,33.5,52.6,Propiconazole 25% EC + Mineral Oil
+Rice,Brown Spot (Bipolaris oryzae),Kharif,34.1,62.1,Mancozeb 75% WP
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,22.2,91.9,Chlorantraniliprole 18.5% SC
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,24.3,76.0,Carbendazim 50% WP (Sett Treatment)
+Cotton,Aphids & Jassids,Kharif,35.7,75.4,Flonicamid 50% WG
+Rice,Brown Plant Hopper,Kharif,23.3,53.6,Imidacloprid 17.8% SL
+Potato,Early Blight,Rabi,28.8,81.1,Difenoconazole 25% EC
+Tomato,Early Blight (Alternaria solani),Whole Year,36.0,62.0,Chlorothalonil 75% WP
+Wheat,Aphids (Sitobion avenae),Rabi,37.9,47.6,Thiamethoxam 25% WG
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,19.8,42.6,Indoxacarb 14.5% SC
+Rice,Bacterial Leaf Blight,Kharif,21.1,48.8,Streptocycline + Copper Oxychloride
+Grape,Powdery Mildew (Uncinula necator),Rabi,26.4,43.5,Penconazole 10% EC
+Cotton,Aphids & Jassids,Kharif,29.9,65.7,Flonicamid 50% WG
+Maize,Fall Armyworm (Spodoptera frugiperda),Kharif,37.4,87.3,Emamectin Benzoate 5% SG
+Rice,Blast (Magnaporthe oryzae),Kharif,31.6,46.3,Tricyclazole 75% WP
+Potato,Early Blight,Rabi,33.0,82.3,Difenoconazole 25% EC
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,20.2,63.9,Spinetoram 11.7% SC
+Tomato,Late Blight (Phytophthora infestans),Whole Year,18.1,79.7,Cymoxanil 8% + Mancozeb 64% WP
+Sugarcane,Early Shoot Borer,Kharif,23.3,67.5,Fipronil 0.3% GR
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,28.2,45.9,Propiconazole 25% EC
+Grape,Downy Mildew (Plasmopara viticola),Rabi,24.0,75.1,Metalaxyl 8% + Mancozeb 64% WP
+Apple,Black Rot,Whole Year,22.0,60.6,Tebuconazole 25.9% EC
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,28.8,82.8,Propiconazole 25% EC
+Potato,Late Blight,Rabi,36.4,72.9,Dimethomorph 50% WP
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,18.4,91.1,Indoxacarb 14.5% SC
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,24.2,43.2,Carbendazim 50% WP (Drenching)
+Apple,Apple Scab (Venturia inaequalis),Whole Year,36.9,44.7,Captan 50% WP
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,34.3,93.8,Indoxacarb 14.5% SC
+Potato,Early Blight,Rabi,33.3,47.1,Difenoconazole 25% EC
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,36.9,49.1,Indoxacarb 14.5% SC
+Potato,Late Blight,Rabi,35.4,63.3,Dimethomorph 50% WP
+Wheat,Powdery Mildew,Rabi,36.6,81.5,Wettable Sulfur 80% WP
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,22.0,57.1,Carbendazim 50% WP (Sett Treatment)
+Grape,Powdery Mildew (Uncinula necator),Rabi,31.0,64.1,Penconazole 10% EC
+Potato,Late Blight,Rabi,27.0,53.6,Dimethomorph 50% WP
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,24.8,72.4,Chlorantraniliprole 18.5% SC
+Wheat,Aphids (Sitobion avenae),Rabi,29.8,40.4,Thiamethoxam 25% WG
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,30.6,52.6,Carbendazim 50% WP (Sett Treatment)
+Rice,Brown Spot (Bipolaris oryzae),Kharif,35.2,43.9,Mancozeb 75% WP
+Wheat,Aphids (Sitobion avenae),Rabi,23.6,66.7,Thiamethoxam 25% WG
+Potato,Early Blight,Rabi,20.6,91.5,Difenoconazole 25% EC
+Apple,Apple Scab (Venturia inaequalis),Whole Year,29.5,53.4,Captan 50% WP
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,34.1,50.5,Indoxacarb 14.5% SC
+Rice,Bacterial Leaf Blight,Kharif,31.2,59.5,Streptocycline + Copper Oxychloride
+Tomato,Early Blight (Alternaria solani),Whole Year,27.3,80.1,Chlorothalonil 75% WP
+Grape,Powdery Mildew (Uncinula necator),Rabi,31.1,75.5,Penconazole 10% EC
+Rice,Brown Spot (Bipolaris oryzae),Kharif,26.1,58.7,Mancozeb 75% WP
+Rice,Bacterial Leaf Blight,Kharif,23.0,50.5,Streptocycline + Copper Oxychloride
+Tomato,Late Blight (Phytophthora infestans),Whole Year,20.8,50.1,Cymoxanil 8% + Mancozeb 64% WP
+Tomato,Late Blight (Phytophthora infestans),Whole Year,23.0,90.8,Cymoxanil 8% + Mancozeb 64% WP
+Tomato,Late Blight (Phytophthora infestans),Whole Year,34.2,87.1,Cymoxanil 8% + Mancozeb 64% WP
+Rice,Bacterial Leaf Blight,Kharif,19.0,95.0,Streptocycline + Copper Oxychloride
+Rice,Blast (Magnaporthe oryzae),Kharif,37.4,91.0,Tricyclazole 75% WP
+Wheat,Aphids (Sitobion avenae),Rabi,21.3,66.7,Thiamethoxam 25% WG
+Wheat,Powdery Mildew,Rabi,35.3,89.6,Wettable Sulfur 80% WP
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,25.6,94.2,Propiconazole 25% EC
+Maize,Fall Armyworm (Spodoptera frugiperda),Kharif,36.5,83.2,Emamectin Benzoate 5% SG
+Maize,Maydis Leaf Blight,Kharif,26.5,92.7,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,29.1,79.5,Carbendazim 50% WP (Drenching)
+Rice,Brown Plant Hopper,Kharif,21.8,52.0,Imidacloprid 17.8% SL
+Rice,Brown Spot (Bipolaris oryzae),Kharif,29.6,69.8,Mancozeb 75% WP
+Sugarcane,Early Shoot Borer,Kharif,24.3,42.8,Fipronil 0.3% GR
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,28.1,86.9,Indoxacarb 14.5% SC
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,19.1,67.9,Propiconazole 25% EC
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,19.4,43.7,Propiconazole 25% EC
+Wheat,Aphids (Sitobion avenae),Rabi,26.1,91.8,Thiamethoxam 25% WG
+Apple,Apple Scab (Venturia inaequalis),Whole Year,22.9,72.7,Captan 50% WP
+Apple,Black Rot,Whole Year,19.6,76.2,Tebuconazole 25.9% EC
+Apple,Apple Scab (Venturia inaequalis),Whole Year,28.5,91.4,Captan 50% WP
+Wheat,Powdery Mildew,Rabi,31.4,57.3,Wettable Sulfur 80% WP
+Maize,Fall Armyworm (Spodoptera frugiperda),Kharif,25.9,76.9,Emamectin Benzoate 5% SG
+Maize,Maydis Leaf Blight,Kharif,27.1,91.1,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,18.2,74.2,Chlorantraniliprole 18.5% SC
+Apple,Apple Scab (Venturia inaequalis),Whole Year,37.9,44.0,Captan 50% WP
+Wheat,Powdery Mildew,Rabi,28.1,47.3,Wettable Sulfur 80% WP
+Cotton,Whitefly (Bemisia tabaci),Kharif,35.6,88.4,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Cotton,Whitefly (Bemisia tabaci),Kharif,23.7,64.1,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Potato,Early Blight,Rabi,32.1,73.6,Difenoconazole 25% EC
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,31.1,40.4,Carbendazim 50% WP (Drenching)
+Potato,Early Blight,Rabi,24.0,76.5,Difenoconazole 25% EC
+Rice,Brown Plant Hopper,Kharif,23.3,88.9,Imidacloprid 17.8% SL
+Sugarcane,Early Shoot Borer,Kharif,29.1,55.0,Fipronil 0.3% GR
+Apple,Black Rot,Whole Year,22.2,58.9,Tebuconazole 25.9% EC
+Grape,Powdery Mildew (Uncinula necator),Rabi,30.7,54.5,Penconazole 10% EC
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,23.0,89.9,Indoxacarb 14.5% SC
+Rice,Brown Spot (Bipolaris oryzae),Kharif,19.8,63.3,Mancozeb 75% WP
+Maize,Fall Armyworm (Spodoptera frugiperda),Kharif,18.9,58.3,Emamectin Benzoate 5% SG
+Rice,Brown Plant Hopper,Kharif,30.7,54.4,Imidacloprid 17.8% SL
+Sugarcane,Early Shoot Borer,Kharif,26.8,78.8,Fipronil 0.3% GR
+Potato,Early Blight,Rabi,18.2,44.1,Difenoconazole 25% EC
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,36.1,70.0,Carbendazim 50% WP (Sett Treatment)
+Cotton,Whitefly (Bemisia tabaci),Kharif,29.7,48.1,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Rice,Brown Plant Hopper,Kharif,18.8,60.1,Imidacloprid 17.8% SL
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,37.4,42.2,Carbendazim 50% WP (Drenching)
+Cotton,Whitefly (Bemisia tabaci),Kharif,22.2,53.7,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Rice,Bacterial Leaf Blight,Kharif,25.1,70.8,Streptocycline + Copper Oxychloride
+Tomato,Early Blight (Alternaria solani),Whole Year,37.5,81.2,Chlorothalonil 75% WP
+Wheat,Aphids (Sitobion avenae),Rabi,35.3,93.7,Thiamethoxam 25% WG
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,21.5,62.7,Carbendazim 50% WP (Drenching)
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,32.7,58.3,Propiconazole 25% EC
+Tomato,Early Blight (Alternaria solani),Whole Year,34.0,87.5,Chlorothalonil 75% WP
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,23.0,48.8,Carbendazim 50% WP (Drenching)
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,20.2,88.0,Carbendazim 50% WP (Sett Treatment)
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,22.4,84.9,Indoxacarb 14.5% SC
+Tomato,Late Blight (Phytophthora infestans),Whole Year,25.0,85.1,Cymoxanil 8% + Mancozeb 64% WP
+Wheat,Aphids (Sitobion avenae),Rabi,22.5,76.3,Thiamethoxam 25% WG
+Cotton,Aphids & Jassids,Kharif,24.6,87.5,Flonicamid 50% WG
+Banana,Sigatoka Leaf Spot,Whole Year,23.6,75.3,Propiconazole 25% EC + Mineral Oil
+Cotton,Aphids & Jassids,Kharif,31.6,86.4,Flonicamid 50% WG
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,36.8,46.3,Spinetoram 11.7% SC
+Maize,Fall Armyworm (Spodoptera frugiperda),Kharif,21.6,92.9,Emamectin Benzoate 5% SG
+Maize,Fall Armyworm (Spodoptera frugiperda),Kharif,18.8,72.8,Emamectin Benzoate 5% SG
+Cotton,Whitefly (Bemisia tabaci),Kharif,32.6,57.3,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Apple,Black Rot,Whole Year,37.7,46.4,Tebuconazole 25.9% EC
+Apple,Apple Scab (Venturia inaequalis),Whole Year,21.8,42.4,Captan 50% WP
+Tomato,Early Blight (Alternaria solani),Whole Year,18.0,90.9,Chlorothalonil 75% WP
+Potato,Early Blight,Rabi,31.7,91.7,Difenoconazole 25% EC
+Sugarcane,Early Shoot Borer,Kharif,31.4,60.0,Fipronil 0.3% GR
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,37.0,90.6,Chlorantraniliprole 18.5% SC
+Apple,Black Rot,Whole Year,24.3,86.6,Tebuconazole 25.9% EC
+Sugarcane,Early Shoot Borer,Kharif,36.0,67.9,Fipronil 0.3% GR
+Grape,Powdery Mildew (Uncinula necator),Rabi,26.2,62.1,Penconazole 10% EC
+Maize,Maydis Leaf Blight,Kharif,29.1,50.6,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Grape,Powdery Mildew (Uncinula necator),Rabi,36.8,77.3,Penconazole 10% EC
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,30.3,56.6,Propiconazole 25% EC
+Potato,Early Blight,Rabi,34.7,56.7,Difenoconazole 25% EC
+Wheat,Powdery Mildew,Rabi,26.6,71.9,Wettable Sulfur 80% WP
+Grape,Downy Mildew (Plasmopara viticola),Rabi,24.4,64.3,Metalaxyl 8% + Mancozeb 64% WP
+Grape,Powdery Mildew (Uncinula necator),Rabi,22.3,66.0,Penconazole 10% EC
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,32.7,76.2,Carbendazim 50% WP (Drenching)
+Maize,Maydis Leaf Blight,Kharif,28.3,74.8,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,19.9,92.4,Spinetoram 11.7% SC
+Wheat,Aphids (Sitobion avenae),Rabi,31.5,52.4,Thiamethoxam 25% WG
+Wheat,Powdery Mildew,Rabi,20.9,42.5,Wettable Sulfur 80% WP
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,30.2,82.3,Indoxacarb 14.5% SC
+Tomato,Late Blight (Phytophthora infestans),Whole Year,26.3,74.6,Cymoxanil 8% + Mancozeb 64% WP
+Wheat,Powdery Mildew,Rabi,32.4,61.1,Wettable Sulfur 80% WP
+Cotton,Aphids & Jassids,Kharif,22.9,76.1,Flonicamid 50% WG
+Rice,Blast (Magnaporthe oryzae),Kharif,35.9,87.3,Tricyclazole 75% WP
+Rice,Bacterial Leaf Blight,Kharif,33.6,52.0,Streptocycline + Copper Oxychloride
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,37.2,68.5,Carbendazim 50% WP (Drenching)
+Rice,Brown Spot (Bipolaris oryzae),Kharif,29.1,90.5,Mancozeb 75% WP
+Rice,Bacterial Leaf Blight,Kharif,27.1,84.1,Streptocycline + Copper Oxychloride
+Grape,Powdery Mildew (Uncinula necator),Rabi,28.6,70.7,Penconazole 10% EC
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,37.0,89.0,Spinetoram 11.7% SC
+Apple,Black Rot,Whole Year,34.3,89.1,Tebuconazole 25.9% EC
+Tomato,Early Blight (Alternaria solani),Whole Year,34.6,70.1,Chlorothalonil 75% WP
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,32.9,66.1,Propiconazole 25% EC
+Maize,Fall Armyworm (Spodoptera frugiperda),Kharif,33.0,86.2,Emamectin Benzoate 5% SG
+Maize,Fall Armyworm (Spodoptera frugiperda),Kharif,33.3,68.7,Emamectin Benzoate 5% SG
+Grape,Downy Mildew (Plasmopara viticola),Rabi,22.8,64.2,Metalaxyl 8% + Mancozeb 64% WP
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,23.7,54.9,Carbendazim 50% WP (Sett Treatment)
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,35.9,44.4,Spinetoram 11.7% SC
+Rice,Brown Plant Hopper,Kharif,22.6,78.2,Imidacloprid 17.8% SL
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,22.3,62.8,Carbendazim 50% WP (Sett Treatment)
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,28.9,62.9,Spinetoram 11.7% SC
+Wheat,Powdery Mildew,Rabi,34.7,61.4,Wettable Sulfur 80% WP
+Banana,Sigatoka Leaf Spot,Whole Year,29.7,78.3,Propiconazole 25% EC + Mineral Oil
+Banana,Sigatoka Leaf Spot,Whole Year,29.5,66.2,Propiconazole 25% EC + Mineral Oil
+Cotton,Whitefly (Bemisia tabaci),Kharif,24.0,61.4,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Tomato,Early Blight (Alternaria solani),Whole Year,28.8,80.4,Chlorothalonil 75% WP
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,30.1,52.1,Carbendazim 50% WP (Drenching)
+Wheat,Aphids (Sitobion avenae),Rabi,23.5,66.7,Thiamethoxam 25% WG
+Cotton,Aphids & Jassids,Kharif,24.7,77.4,Flonicamid 50% WG
+Cotton,Aphids & Jassids,Kharif,32.5,86.2,Flonicamid 50% WG
+Rice,Brown Plant Hopper,Kharif,37.6,69.4,Imidacloprid 17.8% SL
+Cotton,Aphids & Jassids,Kharif,29.8,76.5,Flonicamid 50% WG
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,30.9,47.5,Chlorantraniliprole 18.5% SC
+Tomato,Late Blight (Phytophthora infestans),Whole Year,21.6,54.3,Cymoxanil 8% + Mancozeb 64% WP
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,22.2,58.0,Spinetoram 11.7% SC
+Banana,Sigatoka Leaf Spot,Whole Year,35.6,55.3,Propiconazole 25% EC + Mineral Oil
+Tomato,Early Blight (Alternaria solani),Whole Year,23.0,44.5,Chlorothalonil 75% WP
+Rice,Blast (Magnaporthe oryzae),Kharif,33.0,42.9,Tricyclazole 75% WP
+Cotton,Whitefly (Bemisia tabaci),Kharif,22.5,43.8,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Grape,Downy Mildew (Plasmopara viticola),Rabi,18.8,41.7,Metalaxyl 8% + Mancozeb 64% WP
+Wheat,Aphids (Sitobion avenae),Rabi,22.0,41.1,Thiamethoxam 25% WG
+Rice,Brown Plant Hopper,Kharif,22.8,66.0,Imidacloprid 17.8% SL
+Rice,Bacterial Leaf Blight,Kharif,29.3,52.0,Streptocycline + Copper Oxychloride
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,23.1,60.3,Carbendazim 50% WP (Sett Treatment)
+Apple,Black Rot,Whole Year,30.1,81.1,Tebuconazole 25.9% EC
+Rice,Bacterial Leaf Blight,Kharif,33.6,49.0,Streptocycline + Copper Oxychloride
+Maize,Maydis Leaf Blight,Kharif,20.2,41.4,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Maize,Maydis Leaf Blight,Kharif,29.5,89.9,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Cotton,Aphids & Jassids,Kharif,25.9,79.3,Flonicamid 50% WG
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,29.8,85.7,Chlorantraniliprole 18.5% SC
+Wheat,Aphids (Sitobion avenae),Rabi,20.0,82.5,Thiamethoxam 25% WG
+Grape,Powdery Mildew (Uncinula necator),Rabi,30.0,46.7,Penconazole 10% EC
+Apple,Apple Scab (Venturia inaequalis),Whole Year,33.7,59.1,Captan 50% WP
+Tomato,Early Blight (Alternaria solani),Whole Year,31.2,43.8,Chlorothalonil 75% WP
+Grape,Downy Mildew (Plasmopara viticola),Rabi,24.8,86.7,Metalaxyl 8% + Mancozeb 64% WP
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,20.1,92.8,Indoxacarb 14.5% SC
+Grape,Downy Mildew (Plasmopara viticola),Rabi,35.8,65.3,Metalaxyl 8% + Mancozeb 64% WP
+Rice,Brown Plant Hopper,Kharif,26.7,80.4,Imidacloprid 17.8% SL
+Grape,Downy Mildew (Plasmopara viticola),Rabi,23.4,84.5,Metalaxyl 8% + Mancozeb 64% WP
+Potato,Early Blight,Rabi,33.5,65.6,Difenoconazole 25% EC
+Sugarcane,Early Shoot Borer,Kharif,29.8,57.7,Fipronil 0.3% GR
+Wheat,Aphids (Sitobion avenae),Rabi,34.6,44.8,Thiamethoxam 25% WG
+Tomato,Late Blight (Phytophthora infestans),Whole Year,22.9,65.6,Cymoxanil 8% + Mancozeb 64% WP
+Apple,Black Rot,Whole Year,31.4,58.5,Tebuconazole 25.9% EC
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,35.0,50.0,Indoxacarb 14.5% SC
+Wheat,Powdery Mildew,Rabi,25.1,54.2,Wettable Sulfur 80% WP
+Maize,Fall Armyworm (Spodoptera frugiperda),Kharif,35.6,78.6,Emamectin Benzoate 5% SG
+Maize,Fall Armyworm (Spodoptera frugiperda),Kharif,29.1,68.4,Emamectin Benzoate 5% SG
+Wheat,Powdery Mildew,Rabi,19.7,79.6,Wettable Sulfur 80% WP
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,29.1,53.2,Indoxacarb 14.5% SC
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,30.9,67.0,Indoxacarb 14.5% SC
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,18.3,56.2,Carbendazim 50% WP (Drenching)
+Cotton,Aphids & Jassids,Kharif,31.8,56.8,Flonicamid 50% WG
+Apple,Apple Scab (Venturia inaequalis),Whole Year,25.4,70.4,Captan 50% WP
+Cotton,Whitefly (Bemisia tabaci),Kharif,26.5,81.0,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,25.0,65.0,Spinetoram 11.7% SC
+Maize,Maydis Leaf Blight,Kharif,23.0,46.6,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Wheat,Powdery Mildew,Rabi,24.3,80.9,Wettable Sulfur 80% WP
+Banana,Sigatoka Leaf Spot,Whole Year,31.8,50.5,Propiconazole 25% EC + Mineral Oil
+Sugarcane,Early Shoot Borer,Kharif,27.7,79.9,Fipronil 0.3% GR
+Banana,Sigatoka Leaf Spot,Whole Year,28.5,55.6,Propiconazole 25% EC + Mineral Oil
+Rice,Bacterial Leaf Blight,Kharif,34.7,56.3,Streptocycline + Copper Oxychloride
+Cotton,Whitefly (Bemisia tabaci),Kharif,21.6,40.8,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Potato,Early Blight,Rabi,20.5,42.5,Difenoconazole 25% EC
+Rice,Brown Spot (Bipolaris oryzae),Kharif,29.1,78.4,Mancozeb 75% WP
+Rice,Brown Plant Hopper,Kharif,30.8,81.4,Imidacloprid 17.8% SL
+Rice,Bacterial Leaf Blight,Kharif,35.5,71.6,Streptocycline + Copper Oxychloride
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,27.6,58.7,Indoxacarb 14.5% SC
+Rice,Brown Spot (Bipolaris oryzae),Kharif,23.0,87.4,Mancozeb 75% WP
+Rice,Bacterial Leaf Blight,Kharif,34.4,62.0,Streptocycline + Copper Oxychloride
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,29.5,77.8,Chlorantraniliprole 18.5% SC
+Rice,Brown Plant Hopper,Kharif,21.0,71.0,Imidacloprid 17.8% SL
+Maize,Maydis Leaf Blight,Kharif,19.7,53.7,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Potato,Early Blight,Rabi,33.3,73.3,Difenoconazole 25% EC
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,30.4,82.7,Carbendazim 50% WP (Drenching)
+Cotton,Aphids & Jassids,Kharif,27.0,64.3,Flonicamid 50% WG
+Apple,Apple Scab (Venturia inaequalis),Whole Year,37.8,56.8,Captan 50% WP
+Apple,Black Rot,Whole Year,19.2,92.8,Tebuconazole 25.9% EC
+Rice,Bacterial Leaf Blight,Kharif,37.0,51.4,Streptocycline + Copper Oxychloride
+Wheat,Powdery Mildew,Rabi,23.3,44.5,Wettable Sulfur 80% WP
+Wheat,Aphids (Sitobion avenae),Rabi,21.5,44.1,Thiamethoxam 25% WG
+Rice,Blast (Magnaporthe oryzae),Kharif,26.2,77.9,Tricyclazole 75% WP
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,23.8,52.7,Indoxacarb 14.5% SC
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,23.7,87.3,Carbendazim 50% WP (Sett Treatment)
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,31.7,90.8,Chlorantraniliprole 18.5% SC
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,33.8,72.4,Carbendazim 50% WP (Drenching)
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,36.7,63.4,Carbendazim 50% WP (Drenching)
+Potato,Early Blight,Rabi,22.5,48.2,Difenoconazole 25% EC
+Maize,Fall Armyworm (Spodoptera frugiperda),Kharif,34.5,43.9,Emamectin Benzoate 5% SG
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,33.9,72.7,Propiconazole 25% EC
+Apple,Apple Scab (Venturia inaequalis),Whole Year,36.4,64.2,Captan 50% WP
+Tomato,Late Blight (Phytophthora infestans),Whole Year,31.8,78.5,Cymoxanil 8% + Mancozeb 64% WP
+Maize,Fall Armyworm (Spodoptera frugiperda),Kharif,28.0,67.2,Emamectin Benzoate 5% SG
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,30.0,88.9,Chlorantraniliprole 18.5% SC
+Sugarcane,Early Shoot Borer,Kharif,24.4,53.8,Fipronil 0.3% GR
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,22.6,77.1,Chlorantraniliprole 18.5% SC
+Apple,Apple Scab (Venturia inaequalis),Whole Year,29.7,41.1,Captan 50% WP
+Banana,Sigatoka Leaf Spot,Whole Year,31.4,54.8,Propiconazole 25% EC + Mineral Oil
+Rice,Brown Spot (Bipolaris oryzae),Kharif,33.3,49.6,Mancozeb 75% WP
+Potato,Late Blight,Rabi,31.0,90.4,Dimethomorph 50% WP
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,37.9,64.0,Propiconazole 25% EC
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,37.4,65.9,Indoxacarb 14.5% SC
+Tomato,Early Blight (Alternaria solani),Whole Year,24.7,76.9,Chlorothalonil 75% WP
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,24.6,78.2,Propiconazole 25% EC
+Maize,Maydis Leaf Blight,Kharif,31.3,62.0,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Banana,Sigatoka Leaf Spot,Whole Year,29.0,65.0,Propiconazole 25% EC + Mineral Oil
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,23.0,46.4,Spinetoram 11.7% SC
+Banana,Sigatoka Leaf Spot,Whole Year,26.1,68.3,Propiconazole 25% EC + Mineral Oil
+Rice,Blast (Magnaporthe oryzae),Kharif,31.2,69.8,Tricyclazole 75% WP
+Tomato,Early Blight (Alternaria solani),Whole Year,19.1,68.5,Chlorothalonil 75% WP
+Apple,Black Rot,Whole Year,33.1,74.4,Tebuconazole 25.9% EC
+Banana,Sigatoka Leaf Spot,Whole Year,19.0,54.7,Propiconazole 25% EC + Mineral Oil
+Rice,Brown Plant Hopper,Kharif,36.6,64.1,Imidacloprid 17.8% SL
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,27.7,41.6,Carbendazim 50% WP (Sett Treatment)
+Grape,Downy Mildew (Plasmopara viticola),Rabi,30.2,53.2,Metalaxyl 8% + Mancozeb 64% WP
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,24.2,40.8,Propiconazole 25% EC
+Tomato,Early Blight (Alternaria solani),Whole Year,19.9,94.6,Chlorothalonil 75% WP
+Rice,Bacterial Leaf Blight,Kharif,27.2,46.5,Streptocycline + Copper Oxychloride
+Rice,Brown Plant Hopper,Kharif,28.0,79.4,Imidacloprid 17.8% SL
+Potato,Late Blight,Rabi,32.1,62.9,Dimethomorph 50% WP
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,37.6,53.4,Indoxacarb 14.5% SC
+Potato,Early Blight,Rabi,20.9,50.5,Difenoconazole 25% EC
+Apple,Black Rot,Whole Year,28.2,88.4,Tebuconazole 25.9% EC
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,23.5,83.5,Chlorantraniliprole 18.5% SC
+Tomato,Early Blight (Alternaria solani),Whole Year,24.8,83.3,Chlorothalonil 75% WP
+Maize,Fall Armyworm (Spodoptera frugiperda),Kharif,34.4,55.6,Emamectin Benzoate 5% SG
+Maize,Maydis Leaf Blight,Kharif,34.7,71.9,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Grape,Powdery Mildew (Uncinula necator),Rabi,27.8,48.2,Penconazole 10% EC
+Potato,Early Blight,Rabi,27.7,58.3,Difenoconazole 25% EC
+Banana,Sigatoka Leaf Spot,Whole Year,28.9,65.0,Propiconazole 25% EC + Mineral Oil
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,35.4,93.9,Spinetoram 11.7% SC
+Wheat,Aphids (Sitobion avenae),Rabi,29.4,52.8,Thiamethoxam 25% WG
+Banana,Sigatoka Leaf Spot,Whole Year,26.2,57.5,Propiconazole 25% EC + Mineral Oil
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,32.1,84.6,Indoxacarb 14.5% SC
+Cotton,Aphids & Jassids,Kharif,37.8,83.6,Flonicamid 50% WG
+Grape,Downy Mildew (Plasmopara viticola),Rabi,37.6,67.2,Metalaxyl 8% + Mancozeb 64% WP
+Rice,Brown Spot (Bipolaris oryzae),Kharif,20.5,93.1,Mancozeb 75% WP
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,35.4,88.1,Spinetoram 11.7% SC
+Tomato,Late Blight (Phytophthora infestans),Whole Year,20.0,90.1,Cymoxanil 8% + Mancozeb 64% WP
+Rice,Blast (Magnaporthe oryzae),Kharif,32.4,62.5,Tricyclazole 75% WP
+Grape,Downy Mildew (Plasmopara viticola),Rabi,37.4,44.1,Metalaxyl 8% + Mancozeb 64% WP
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,37.4,58.6,Carbendazim 50% WP (Drenching)
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,25.9,44.4,Carbendazim 50% WP (Sett Treatment)
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,35.0,87.3,Spinetoram 11.7% SC
+Cotton,Aphids & Jassids,Kharif,37.1,74.5,Flonicamid 50% WG
+Banana,Sigatoka Leaf Spot,Whole Year,27.8,69.8,Propiconazole 25% EC + Mineral Oil
+Apple,Black Rot,Whole Year,19.4,74.7,Tebuconazole 25.9% EC
+Maize,Maydis Leaf Blight,Kharif,37.9,81.1,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Tomato,Early Blight (Alternaria solani),Whole Year,37.6,81.8,Chlorothalonil 75% WP
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,35.5,64.4,Carbendazim 50% WP (Sett Treatment)
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,24.0,41.6,Carbendazim 50% WP (Sett Treatment)
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,33.9,56.1,Spinetoram 11.7% SC
+Cotton,Whitefly (Bemisia tabaci),Kharif,26.6,53.4,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Tomato,Early Blight (Alternaria solani),Whole Year,29.3,83.6,Chlorothalonil 75% WP
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,21.5,73.5,Propiconazole 25% EC
+Cotton,Aphids & Jassids,Kharif,30.4,53.2,Flonicamid 50% WG
+Apple,Apple Scab (Venturia inaequalis),Whole Year,20.9,65.4,Captan 50% WP
+Maize,Fall Armyworm (Spodoptera frugiperda),Kharif,27.2,76.7,Emamectin Benzoate 5% SG
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,27.3,55.8,Carbendazim 50% WP (Drenching)
+Potato,Early Blight,Rabi,21.2,64.3,Difenoconazole 25% EC
+Cotton,Whitefly (Bemisia tabaci),Kharif,37.8,56.5,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Tomato,Early Blight (Alternaria solani),Whole Year,31.8,65.1,Chlorothalonil 75% WP
+Maize,Maydis Leaf Blight,Kharif,22.0,61.2,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,20.1,61.0,Indoxacarb 14.5% SC
+Cotton,Whitefly (Bemisia tabaci),Kharif,29.5,94.6,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Maize,Maydis Leaf Blight,Kharif,18.4,85.7,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Cotton,Aphids & Jassids,Kharif,23.5,71.1,Flonicamid 50% WG
+Grape,Powdery Mildew (Uncinula necator),Rabi,33.6,93.5,Penconazole 10% EC
+Apple,Black Rot,Whole Year,32.9,85.8,Tebuconazole 25.9% EC
+Maize,Maydis Leaf Blight,Kharif,33.5,52.7,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,25.0,75.0,Carbendazim 50% WP (Drenching)
+Apple,Black Rot,Whole Year,23.0,81.6,Tebuconazole 25.9% EC
+Banana,Sigatoka Leaf Spot,Whole Year,31.2,86.1,Propiconazole 25% EC + Mineral Oil
+Grape,Downy Mildew (Plasmopara viticola),Rabi,19.9,74.5,Metalaxyl 8% + Mancozeb 64% WP
+Rice,Brown Spot (Bipolaris oryzae),Kharif,24.2,64.2,Mancozeb 75% WP
+Apple,Apple Scab (Venturia inaequalis),Whole Year,25.3,47.2,Captan 50% WP
+Maize,Maydis Leaf Blight,Kharif,24.5,62.9,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Wheat,Powdery Mildew,Rabi,20.6,69.7,Wettable Sulfur 80% WP
+Cotton,Whitefly (Bemisia tabaci),Kharif,28.6,90.2,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,23.1,85.4,Propiconazole 25% EC
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,37.3,56.2,Indoxacarb 14.5% SC
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,34.1,65.8,Spinetoram 11.7% SC
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,20.8,93.2,Chlorantraniliprole 18.5% SC
+Grape,Powdery Mildew (Uncinula necator),Rabi,32.5,93.9,Penconazole 10% EC
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,29.1,45.0,Carbendazim 50% WP (Drenching)
+Cotton,Aphids & Jassids,Kharif,18.3,69.5,Flonicamid 50% WG
+Tomato,Late Blight (Phytophthora infestans),Whole Year,25.4,81.2,Cymoxanil 8% + Mancozeb 64% WP
+Maize,Fall Armyworm (Spodoptera frugiperda),Kharif,29.7,85.2,Emamectin Benzoate 5% SG
+Cotton,Whitefly (Bemisia tabaci),Kharif,20.2,52.9,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Rice,Blast (Magnaporthe oryzae),Kharif,30.4,91.9,Tricyclazole 75% WP
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,36.3,52.2,Spinetoram 11.7% SC
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,30.7,65.5,Chlorantraniliprole 18.5% SC
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,24.0,62.5,Carbendazim 50% WP (Sett Treatment)
+Rice,Brown Plant Hopper,Kharif,18.9,42.0,Imidacloprid 17.8% SL
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,20.3,52.9,Indoxacarb 14.5% SC
+Potato,Early Blight,Rabi,20.7,65.0,Difenoconazole 25% EC
+Grape,Powdery Mildew (Uncinula necator),Rabi,37.0,78.3,Penconazole 10% EC
+Potato,Early Blight,Rabi,26.4,80.8,Difenoconazole 25% EC
+Rice,Brown Plant Hopper,Kharif,35.7,76.0,Imidacloprid 17.8% SL
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,30.3,91.6,Indoxacarb 14.5% SC
+Maize,Fall Armyworm (Spodoptera frugiperda),Kharif,18.7,60.4,Emamectin Benzoate 5% SG
+Tomato,Late Blight (Phytophthora infestans),Whole Year,26.9,53.0,Cymoxanil 8% + Mancozeb 64% WP
+Cotton,Whitefly (Bemisia tabaci),Kharif,20.0,77.7,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Potato,Early Blight,Rabi,36.0,75.5,Difenoconazole 25% EC
+Rice,Brown Spot (Bipolaris oryzae),Kharif,26.0,50.4,Mancozeb 75% WP
+Rice,Bacterial Leaf Blight,Kharif,37.0,85.3,Streptocycline + Copper Oxychloride
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,31.3,75.3,Chlorantraniliprole 18.5% SC
+Apple,Black Rot,Whole Year,37.4,42.8,Tebuconazole 25.9% EC
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,22.9,46.9,Spinetoram 11.7% SC
+Apple,Apple Scab (Venturia inaequalis),Whole Year,22.1,85.6,Captan 50% WP
+Potato,Early Blight,Rabi,22.1,51.9,Difenoconazole 25% EC
+Wheat,Aphids (Sitobion avenae),Rabi,24.6,48.1,Thiamethoxam 25% WG
+Apple,Black Rot,Whole Year,18.1,87.2,Tebuconazole 25.9% EC
+Rice,Brown Plant Hopper,Kharif,37.8,69.7,Imidacloprid 17.8% SL
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,21.5,76.4,Carbendazim 50% WP (Drenching)
+Rice,Blast (Magnaporthe oryzae),Kharif,20.6,59.7,Tricyclazole 75% WP
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,22.8,57.8,Carbendazim 50% WP (Drenching)
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,23.3,47.0,Propiconazole 25% EC
+Tomato,Early Blight (Alternaria solani),Whole Year,28.5,81.0,Chlorothalonil 75% WP
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,27.0,59.9,Indoxacarb 14.5% SC
+Apple,Apple Scab (Venturia inaequalis),Whole Year,20.2,67.7,Captan 50% WP
+Apple,Black Rot,Whole Year,18.9,83.1,Tebuconazole 25.9% EC
+Grape,Powdery Mildew (Uncinula necator),Rabi,28.4,65.2,Penconazole 10% EC
+Rice,Blast (Magnaporthe oryzae),Kharif,19.2,66.3,Tricyclazole 75% WP
+Cotton,Aphids & Jassids,Kharif,26.5,45.9,Flonicamid 50% WG
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,36.2,44.0,Carbendazim 50% WP (Sett Treatment)
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,24.4,48.2,Chlorantraniliprole 18.5% SC
+Rice,Brown Plant Hopper,Kharif,23.5,74.8,Imidacloprid 17.8% SL
+Potato,Early Blight,Rabi,32.2,60.9,Difenoconazole 25% EC
+Apple,Black Rot,Whole Year,28.6,65.0,Tebuconazole 25.9% EC
+Apple,Black Rot,Whole Year,26.6,83.6,Tebuconazole 25.9% EC
+Rice,Bacterial Leaf Blight,Kharif,35.1,75.8,Streptocycline + Copper Oxychloride
+Banana,Sigatoka Leaf Spot,Whole Year,29.0,87.6,Propiconazole 25% EC + Mineral Oil
+Tomato,Early Blight (Alternaria solani),Whole Year,27.0,52.6,Chlorothalonil 75% WP
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,34.5,61.9,Spinetoram 11.7% SC
+Sugarcane,Early Shoot Borer,Kharif,19.9,63.5,Fipronil 0.3% GR
+Grape,Powdery Mildew (Uncinula necator),Rabi,23.1,92.4,Penconazole 10% EC
+Grape,Powdery Mildew (Uncinula necator),Rabi,36.5,43.7,Penconazole 10% EC
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,19.9,45.3,Chlorantraniliprole 18.5% SC
+Sugarcane,Early Shoot Borer,Kharif,25.5,47.2,Fipronil 0.3% GR
+Rice,Brown Spot (Bipolaris oryzae),Kharif,29.7,70.9,Mancozeb 75% WP
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,31.4,62.6,Spinetoram 11.7% SC
+Grape,Powdery Mildew (Uncinula necator),Rabi,36.8,63.3,Penconazole 10% EC
+Sugarcane,Early Shoot Borer,Kharif,19.0,55.8,Fipronil 0.3% GR
+Maize,Maydis Leaf Blight,Kharif,25.0,71.8,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Wheat,Powdery Mildew,Rabi,21.1,66.5,Wettable Sulfur 80% WP
+Rice,Bacterial Leaf Blight,Kharif,25.0,70.6,Streptocycline + Copper Oxychloride
+Rice,Bacterial Leaf Blight,Kharif,33.3,71.6,Streptocycline + Copper Oxychloride
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,26.6,70.9,Carbendazim 50% WP (Drenching)
+Banana,Sigatoka Leaf Spot,Whole Year,34.4,73.7,Propiconazole 25% EC + Mineral Oil
+Grape,Downy Mildew (Plasmopara viticola),Rabi,29.1,73.5,Metalaxyl 8% + Mancozeb 64% WP
+Grape,Powdery Mildew (Uncinula necator),Rabi,34.6,54.7,Penconazole 10% EC
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,23.5,81.9,Propiconazole 25% EC
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,25.0,50.0,Spinetoram 11.7% SC
+Rice,Brown Plant Hopper,Kharif,29.3,62.0,Imidacloprid 17.8% SL
+Rice,Brown Plant Hopper,Kharif,32.8,93.4,Imidacloprid 17.8% SL
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,32.9,51.8,Chlorantraniliprole 18.5% SC
+Tomato,Early Blight (Alternaria solani),Whole Year,27.1,48.7,Chlorothalonil 75% WP
+Maize,Maydis Leaf Blight,Kharif,32.4,82.7,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Apple,Apple Scab (Venturia inaequalis),Whole Year,29.9,88.6,Captan 50% WP
+Rice,Brown Plant Hopper,Kharif,21.1,74.0,Imidacloprid 17.8% SL
+Grape,Powdery Mildew (Uncinula necator),Rabi,19.6,64.4,Penconazole 10% EC
+Tomato,Early Blight (Alternaria solani),Whole Year,27.7,64.3,Chlorothalonil 75% WP
+Maize,Fall Armyworm (Spodoptera frugiperda),Kharif,22.3,68.2,Emamectin Benzoate 5% SG
+Cotton,Whitefly (Bemisia tabaci),Kharif,26.6,55.6,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Grape,Powdery Mildew (Uncinula necator),Rabi,29.9,69.0,Penconazole 10% EC
+Maize,Maydis Leaf Blight,Kharif,18.9,61.7,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Apple,Black Rot,Whole Year,19.1,51.2,Tebuconazole 25.9% EC
+Wheat,Powdery Mildew,Rabi,33.3,82.0,Wettable Sulfur 80% WP
+Maize,Maydis Leaf Blight,Kharif,24.6,40.4,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Sugarcane,Early Shoot Borer,Kharif,26.6,47.1,Fipronil 0.3% GR
+Potato,Early Blight,Rabi,32.1,67.5,Difenoconazole 25% EC
+Grape,Powdery Mildew (Uncinula necator),Rabi,34.1,44.0,Penconazole 10% EC
+Sugarcane,Early Shoot Borer,Kharif,18.8,41.0,Fipronil 0.3% GR
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,35.2,71.7,Chlorantraniliprole 18.5% SC
+Apple,Apple Scab (Venturia inaequalis),Whole Year,26.1,75.2,Captan 50% WP
+Maize,Maydis Leaf Blight,Kharif,20.3,41.1,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,21.4,92.1,Spinetoram 11.7% SC
+Tomato,Late Blight (Phytophthora infestans),Whole Year,34.6,90.6,Cymoxanil 8% + Mancozeb 64% WP
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,26.7,45.8,Chlorantraniliprole 18.5% SC
+Tomato,Early Blight (Alternaria solani),Whole Year,29.8,68.8,Chlorothalonil 75% WP
+Cotton,Aphids & Jassids,Kharif,35.4,81.0,Flonicamid 50% WG
+Wheat,Aphids (Sitobion avenae),Rabi,24.7,49.2,Thiamethoxam 25% WG
+Potato,Late Blight,Rabi,30.7,69.2,Dimethomorph 50% WP
+Wheat,Powdery Mildew,Rabi,36.1,59.2,Wettable Sulfur 80% WP
+Sugarcane,Early Shoot Borer,Kharif,37.2,75.5,Fipronil 0.3% GR
+Rice,Brown Plant Hopper,Kharif,22.7,48.1,Imidacloprid 17.8% SL
+Wheat,Powdery Mildew,Rabi,21.5,48.4,Wettable Sulfur 80% WP
+Banana,Sigatoka Leaf Spot,Whole Year,31.1,49.7,Propiconazole 25% EC + Mineral Oil
+Banana,Sigatoka Leaf Spot,Whole Year,30.6,65.5,Propiconazole 25% EC + Mineral Oil
+Apple,Apple Scab (Venturia inaequalis),Whole Year,33.2,64.7,Captan 50% WP
+Apple,Apple Scab (Venturia inaequalis),Whole Year,30.9,94.3,Captan 50% WP
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,35.3,74.5,Spinetoram 11.7% SC
+Rice,Brown Plant Hopper,Kharif,26.8,65.8,Imidacloprid 17.8% SL
+Grape,Downy Mildew (Plasmopara viticola),Rabi,24.1,55.1,Metalaxyl 8% + Mancozeb 64% WP
+Rice,Brown Spot (Bipolaris oryzae),Kharif,25.0,44.1,Mancozeb 75% WP
+Tomato,Late Blight (Phytophthora infestans),Whole Year,27.0,43.1,Cymoxanil 8% + Mancozeb 64% WP
+Maize,Maydis Leaf Blight,Kharif,19.5,87.5,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,30.3,67.9,Chlorantraniliprole 18.5% SC
+Tomato,Late Blight (Phytophthora infestans),Whole Year,29.6,92.5,Cymoxanil 8% + Mancozeb 64% WP
+Sugarcane,Early Shoot Borer,Kharif,35.9,64.7,Fipronil 0.3% GR
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,29.4,50.4,Carbendazim 50% WP (Drenching)
+Apple,Black Rot,Whole Year,27.5,48.3,Tebuconazole 25.9% EC
+Rice,Brown Spot (Bipolaris oryzae),Kharif,27.0,84.6,Mancozeb 75% WP
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,37.6,44.6,Spinetoram 11.7% SC
+Grape,Downy Mildew (Plasmopara viticola),Rabi,21.5,53.6,Metalaxyl 8% + Mancozeb 64% WP
+Tomato,Late Blight (Phytophthora infestans),Whole Year,37.8,68.8,Cymoxanil 8% + Mancozeb 64% WP
+Apple,Black Rot,Whole Year,21.2,60.5,Tebuconazole 25.9% EC
+Maize,Maydis Leaf Blight,Kharif,25.7,82.6,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Grape,Powdery Mildew (Uncinula necator),Rabi,30.0,83.4,Penconazole 10% EC
+Grape,Downy Mildew (Plasmopara viticola),Rabi,24.7,58.1,Metalaxyl 8% + Mancozeb 64% WP
+Potato,Early Blight,Rabi,31.6,55.6,Difenoconazole 25% EC
+Sugarcane,Early Shoot Borer,Kharif,35.0,93.0,Fipronil 0.3% GR
+Apple,Black Rot,Whole Year,35.5,58.3,Tebuconazole 25.9% EC
+Apple,Apple Scab (Venturia inaequalis),Whole Year,31.3,90.4,Captan 50% WP
+Maize,Maydis Leaf Blight,Kharif,37.4,78.4,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Cotton,Aphids & Jassids,Kharif,20.6,79.0,Flonicamid 50% WG
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,24.2,60.7,Chlorantraniliprole 18.5% SC
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,24.6,47.0,Carbendazim 50% WP (Drenching)
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,34.6,80.6,Carbendazim 50% WP (Sett Treatment)
+Grape,Powdery Mildew (Uncinula necator),Rabi,36.2,45.1,Penconazole 10% EC
+Grape,Powdery Mildew (Uncinula necator),Rabi,26.5,59.9,Penconazole 10% EC
+Cotton,Whitefly (Bemisia tabaci),Kharif,24.2,92.3,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,37.0,66.7,Spinetoram 11.7% SC
+Wheat,Aphids (Sitobion avenae),Rabi,38.0,48.5,Thiamethoxam 25% WG
+Maize,Maydis Leaf Blight,Kharif,34.9,45.6,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Banana,Sigatoka Leaf Spot,Whole Year,28.8,80.6,Propiconazole 25% EC + Mineral Oil
+Potato,Late Blight,Rabi,18.8,58.5,Dimethomorph 50% WP
+Banana,Sigatoka Leaf Spot,Whole Year,30.4,72.8,Propiconazole 25% EC + Mineral Oil
+Rice,Brown Plant Hopper,Kharif,21.2,85.7,Imidacloprid 17.8% SL
+Banana,Sigatoka Leaf Spot,Whole Year,30.5,89.6,Propiconazole 25% EC + Mineral Oil
+Sugarcane,Early Shoot Borer,Kharif,26.8,62.6,Fipronil 0.3% GR
+Grape,Powdery Mildew (Uncinula necator),Rabi,32.4,93.3,Penconazole 10% EC
+Apple,Black Rot,Whole Year,23.7,81.2,Tebuconazole 25.9% EC
+Tomato,Late Blight (Phytophthora infestans),Whole Year,22.7,53.2,Cymoxanil 8% + Mancozeb 64% WP
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,33.7,89.7,Carbendazim 50% WP (Drenching)
+Wheat,Powdery Mildew,Rabi,25.4,92.1,Wettable Sulfur 80% WP
+Tomato,Late Blight (Phytophthora infestans),Whole Year,27.2,55.5,Cymoxanil 8% + Mancozeb 64% WP
+Cotton,Aphids & Jassids,Kharif,28.1,63.0,Flonicamid 50% WG
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,34.3,84.1,Propiconazole 25% EC
+Rice,Brown Plant Hopper,Kharif,35.5,42.9,Imidacloprid 17.8% SL
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,35.5,70.5,Indoxacarb 14.5% SC
+Rice,Bacterial Leaf Blight,Kharif,32.2,68.4,Streptocycline + Copper Oxychloride
+Rice,Bacterial Leaf Blight,Kharif,23.7,82.0,Streptocycline + Copper Oxychloride
+Maize,Fall Armyworm (Spodoptera frugiperda),Kharif,27.0,68.2,Emamectin Benzoate 5% SG
+Tomato,Early Blight (Alternaria solani),Whole Year,19.8,90.1,Chlorothalonil 75% WP
+Tomato,Late Blight (Phytophthora infestans),Whole Year,35.7,91.2,Cymoxanil 8% + Mancozeb 64% WP
+Tomato,Early Blight (Alternaria solani),Whole Year,19.1,67.6,Chlorothalonil 75% WP
+Wheat,Aphids (Sitobion avenae),Rabi,25.7,44.5,Thiamethoxam 25% WG
+Wheat,Aphids (Sitobion avenae),Rabi,18.6,91.2,Thiamethoxam 25% WG
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,31.0,83.5,Carbendazim 50% WP (Sett Treatment)
+Rice,Brown Plant Hopper,Kharif,18.8,90.5,Imidacloprid 17.8% SL
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,31.9,47.6,Indoxacarb 14.5% SC
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,27.4,73.8,Carbendazim 50% WP (Sett Treatment)
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,18.4,51.9,Chlorantraniliprole 18.5% SC
+Rice,Brown Plant Hopper,Kharif,29.0,80.0,Imidacloprid 17.8% SL
+Potato,Late Blight,Rabi,26.5,82.7,Dimethomorph 50% WP
+Wheat,Aphids (Sitobion avenae),Rabi,24.0,42.6,Thiamethoxam 25% WG
+Tomato,Early Blight (Alternaria solani),Whole Year,30.8,74.3,Chlorothalonil 75% WP
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,20.2,89.8,Chlorantraniliprole 18.5% SC
+Apple,Black Rot,Whole Year,28.7,74.8,Tebuconazole 25.9% EC
+Apple,Apple Scab (Venturia inaequalis),Whole Year,22.8,47.9,Captan 50% WP
+Tomato,Early Blight (Alternaria solani),Whole Year,18.0,59.4,Chlorothalonil 75% WP
+Apple,Apple Scab (Venturia inaequalis),Whole Year,26.3,76.5,Captan 50% WP
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,28.5,59.8,Chlorantraniliprole 18.5% SC
+Potato,Late Blight,Rabi,28.9,83.3,Dimethomorph 50% WP
+Potato,Late Blight,Rabi,29.1,61.5,Dimethomorph 50% WP
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,18.9,61.3,Indoxacarb 14.5% SC
+Cotton,Whitefly (Bemisia tabaci),Kharif,23.1,40.9,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,19.4,53.3,Carbendazim 50% WP (Drenching)
+Grape,Powdery Mildew (Uncinula necator),Rabi,30.6,82.4,Penconazole 10% EC
+Sugarcane,Early Shoot Borer,Kharif,33.1,47.3,Fipronil 0.3% GR
+Cotton,Whitefly (Bemisia tabaci),Kharif,28.9,84.7,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,34.6,77.7,Propiconazole 25% EC
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,27.6,50.0,Carbendazim 50% WP (Sett Treatment)
+Rice,Brown Plant Hopper,Kharif,19.3,82.7,Imidacloprid 17.8% SL
+Tomato,Late Blight (Phytophthora infestans),Whole Year,18.7,51.1,Cymoxanil 8% + Mancozeb 64% WP
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,22.0,42.3,Carbendazim 50% WP (Drenching)
+Maize,Maydis Leaf Blight,Kharif,28.3,94.4,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Potato,Early Blight,Rabi,27.5,42.0,Difenoconazole 25% EC
+Grape,Downy Mildew (Plasmopara viticola),Rabi,21.8,59.6,Metalaxyl 8% + Mancozeb 64% WP
+Banana,Sigatoka Leaf Spot,Whole Year,19.0,76.1,Propiconazole 25% EC + Mineral Oil
+Maize,Fall Armyworm (Spodoptera frugiperda),Kharif,20.5,60.2,Emamectin Benzoate 5% SG
+Cotton,Aphids & Jassids,Kharif,32.9,89.2,Flonicamid 50% WG
+Cotton,Aphids & Jassids,Kharif,24.8,50.3,Flonicamid 50% WG
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,28.0,90.8,Carbendazim 50% WP (Sett Treatment)
+Potato,Late Blight,Rabi,23.3,44.5,Dimethomorph 50% WP
+Tomato,Early Blight (Alternaria solani),Whole Year,19.6,73.1,Chlorothalonil 75% WP
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,28.9,57.7,Propiconazole 25% EC
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,24.6,56.3,Chlorantraniliprole 18.5% SC
+Tomato,Late Blight (Phytophthora infestans),Whole Year,30.1,63.4,Cymoxanil 8% + Mancozeb 64% WP
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,26.9,64.6,Carbendazim 50% WP (Sett Treatment)
+Sugarcane,Early Shoot Borer,Kharif,35.4,59.4,Fipronil 0.3% GR
+Tomato,Early Blight (Alternaria solani),Whole Year,23.5,93.9,Chlorothalonil 75% WP
+Rice,Brown Spot (Bipolaris oryzae),Kharif,19.5,75.1,Mancozeb 75% WP
+Cotton,Whitefly (Bemisia tabaci),Kharif,28.3,81.2,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,37.1,47.9,Propiconazole 25% EC
+Apple,Black Rot,Whole Year,31.6,64.1,Tebuconazole 25.9% EC
+Rice,Brown Plant Hopper,Kharif,19.3,82.8,Imidacloprid 17.8% SL
+Cotton,Whitefly (Bemisia tabaci),Kharif,25.2,92.2,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Rice,Brown Spot (Bipolaris oryzae),Kharif,30.1,77.3,Mancozeb 75% WP
+Cotton,Whitefly (Bemisia tabaci),Kharif,25.4,82.0,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Apple,Apple Scab (Venturia inaequalis),Whole Year,20.8,60.2,Captan 50% WP
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,31.0,53.7,Spinetoram 11.7% SC
+Rice,Bacterial Leaf Blight,Kharif,18.5,50.2,Streptocycline + Copper Oxychloride
+Potato,Late Blight,Rabi,25.7,70.9,Dimethomorph 50% WP
+Maize,Fall Armyworm (Spodoptera frugiperda),Kharif,33.5,78.7,Emamectin Benzoate 5% SG
+Wheat,Powdery Mildew,Rabi,37.9,55.7,Wettable Sulfur 80% WP
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,22.0,47.5,Indoxacarb 14.5% SC
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,27.0,89.4,Chlorantraniliprole 18.5% SC
+Tomato,Late Blight (Phytophthora infestans),Whole Year,37.9,84.6,Cymoxanil 8% + Mancozeb 64% WP
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,31.4,79.0,Spinetoram 11.7% SC
+Potato,Early Blight,Rabi,28.8,89.0,Difenoconazole 25% EC
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,32.2,91.0,Propiconazole 25% EC
+Grape,Downy Mildew (Plasmopara viticola),Rabi,21.5,59.9,Metalaxyl 8% + Mancozeb 64% WP
+Wheat,Aphids (Sitobion avenae),Rabi,20.4,51.1,Thiamethoxam 25% WG
+Rice,Brown Plant Hopper,Kharif,22.7,67.2,Imidacloprid 17.8% SL
+Cotton,Whitefly (Bemisia tabaci),Kharif,29.1,60.3,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,37.7,47.1,Carbendazim 50% WP (Drenching)
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,19.3,61.9,Chlorantraniliprole 18.5% SC
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,32.4,68.9,Carbendazim 50% WP (Sett Treatment)
+Banana,Sigatoka Leaf Spot,Whole Year,26.2,71.6,Propiconazole 25% EC + Mineral Oil
+Rice,Brown Plant Hopper,Kharif,37.4,75.3,Imidacloprid 17.8% SL
+Tomato,Late Blight (Phytophthora infestans),Whole Year,27.3,68.5,Cymoxanil 8% + Mancozeb 64% WP
+Rice,Brown Plant Hopper,Kharif,35.6,82.9,Imidacloprid 17.8% SL
+Grape,Downy Mildew (Plasmopara viticola),Rabi,29.8,82.2,Metalaxyl 8% + Mancozeb 64% WP
+Rice,Brown Plant Hopper,Kharif,26.7,90.1,Imidacloprid 17.8% SL
+Rice,Brown Spot (Bipolaris oryzae),Kharif,34.6,68.5,Mancozeb 75% WP
+Maize,Maydis Leaf Blight,Kharif,21.3,57.7,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,22.5,92.1,Carbendazim 50% WP (Sett Treatment)
+Potato,Late Blight,Rabi,35.9,86.5,Dimethomorph 50% WP
+Maize,Fall Armyworm (Spodoptera frugiperda),Kharif,21.9,92.6,Emamectin Benzoate 5% SG
+Maize,Fall Armyworm (Spodoptera frugiperda),Kharif,20.5,56.7,Emamectin Benzoate 5% SG
+Potato,Early Blight,Rabi,19.9,75.3,Difenoconazole 25% EC
+Apple,Apple Scab (Venturia inaequalis),Whole Year,36.8,48.5,Captan 50% WP
+Grape,Powdery Mildew (Uncinula necator),Rabi,30.5,89.6,Penconazole 10% EC
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,34.9,71.0,Spinetoram 11.7% SC
+Rice,Blast (Magnaporthe oryzae),Kharif,19.6,92.2,Tricyclazole 75% WP
+Banana,Sigatoka Leaf Spot,Whole Year,29.5,75.8,Propiconazole 25% EC + Mineral Oil
+Banana,Sigatoka Leaf Spot,Whole Year,29.4,74.0,Propiconazole 25% EC + Mineral Oil
+Rice,Blast (Magnaporthe oryzae),Kharif,28.0,74.5,Tricyclazole 75% WP
+Maize,Maydis Leaf Blight,Kharif,30.8,56.6,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Wheat,Aphids (Sitobion avenae),Rabi,34.1,77.7,Thiamethoxam 25% WG
+Maize,Maydis Leaf Blight,Kharif,27.1,77.9,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,26.8,66.6,Propiconazole 25% EC
+Wheat,Powdery Mildew,Rabi,24.8,47.9,Wettable Sulfur 80% WP
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,24.4,94.3,Carbendazim 50% WP (Sett Treatment)
+Cotton,Whitefly (Bemisia tabaci),Kharif,37.5,47.2,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Cotton,Whitefly (Bemisia tabaci),Kharif,28.3,45.8,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Wheat,Aphids (Sitobion avenae),Rabi,27.3,54.7,Thiamethoxam 25% WG
+Wheat,Aphids (Sitobion avenae),Rabi,20.8,42.8,Thiamethoxam 25% WG
+Cotton,Aphids & Jassids,Kharif,35.3,63.0,Flonicamid 50% WG
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,34.3,91.4,Propiconazole 25% EC
+Sugarcane,Early Shoot Borer,Kharif,24.3,82.0,Fipronil 0.3% GR
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,37.9,65.7,Indoxacarb 14.5% SC
+Maize,Maydis Leaf Blight,Kharif,27.9,45.0,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Cotton,Aphids & Jassids,Kharif,28.1,93.2,Flonicamid 50% WG
+Wheat,Powdery Mildew,Rabi,29.7,42.7,Wettable Sulfur 80% WP
+Maize,Maydis Leaf Blight,Kharif,27.9,88.5,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Grape,Downy Mildew (Plasmopara viticola),Rabi,31.5,55.7,Metalaxyl 8% + Mancozeb 64% WP
+Rice,Blast (Magnaporthe oryzae),Kharif,34.9,63.7,Tricyclazole 75% WP
+Maize,Fall Armyworm (Spodoptera frugiperda),Kharif,32.6,82.0,Emamectin Benzoate 5% SG
+Cotton,Whitefly (Bemisia tabaci),Kharif,18.9,42.8,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Potato,Early Blight,Rabi,21.9,70.4,Difenoconazole 25% EC
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,25.7,64.8,Chlorantraniliprole 18.5% SC
+Potato,Early Blight,Rabi,23.6,94.4,Difenoconazole 25% EC
+Grape,Powdery Mildew (Uncinula necator),Rabi,30.2,47.1,Penconazole 10% EC
+Rice,Bacterial Leaf Blight,Kharif,25.9,83.7,Streptocycline + Copper Oxychloride
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,29.2,60.1,Spinetoram 11.7% SC
+Rice,Brown Plant Hopper,Kharif,22.0,68.0,Imidacloprid 17.8% SL
+Potato,Late Blight,Rabi,18.8,42.1,Dimethomorph 50% WP
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,24.7,66.1,Carbendazim 50% WP (Sett Treatment)
+Tomato,Late Blight (Phytophthora infestans),Whole Year,21.0,89.1,Cymoxanil 8% + Mancozeb 64% WP
+Rice,Brown Plant Hopper,Kharif,24.6,73.7,Imidacloprid 17.8% SL
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,25.9,73.9,Propiconazole 25% EC
+Maize,Maydis Leaf Blight,Kharif,29.9,67.9,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Potato,Late Blight,Rabi,28.6,79.0,Dimethomorph 50% WP
+Maize,Maydis Leaf Blight,Kharif,27.5,40.9,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,31.5,93.9,Spinetoram 11.7% SC
+Apple,Apple Scab (Venturia inaequalis),Whole Year,24.2,89.4,Captan 50% WP
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,30.6,72.8,Carbendazim 50% WP (Sett Treatment)
+Maize,Fall Armyworm (Spodoptera frugiperda),Kharif,37.3,83.1,Emamectin Benzoate 5% SG
+Banana,Sigatoka Leaf Spot,Whole Year,29.6,52.5,Propiconazole 25% EC + Mineral Oil
+Rice,Brown Spot (Bipolaris oryzae),Kharif,29.7,49.4,Mancozeb 75% WP
+Grape,Downy Mildew (Plasmopara viticola),Rabi,32.4,82.6,Metalaxyl 8% + Mancozeb 64% WP
+Cotton,Aphids & Jassids,Kharif,21.0,77.4,Flonicamid 50% WG
+Rice,Brown Spot (Bipolaris oryzae),Kharif,29.5,78.5,Mancozeb 75% WP
+Wheat,Powdery Mildew,Rabi,18.4,57.3,Wettable Sulfur 80% WP
+Rice,Brown Plant Hopper,Kharif,26.3,51.2,Imidacloprid 17.8% SL
+Potato,Late Blight,Rabi,33.5,90.6,Dimethomorph 50% WP
+Sugarcane,Early Shoot Borer,Kharif,32.5,78.8,Fipronil 0.3% GR
+Potato,Late Blight,Rabi,22.1,57.9,Dimethomorph 50% WP
+Grape,Powdery Mildew (Uncinula necator),Rabi,27.6,60.7,Penconazole 10% EC
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,27.2,69.3,Propiconazole 25% EC
+Potato,Early Blight,Rabi,25.1,82.5,Difenoconazole 25% EC
+Sugarcane,Early Shoot Borer,Kharif,31.6,84.2,Fipronil 0.3% GR
+Maize,Fall Armyworm (Spodoptera frugiperda),Kharif,30.2,50.6,Emamectin Benzoate 5% SG
+Wheat,Aphids (Sitobion avenae),Rabi,23.6,56.4,Thiamethoxam 25% WG
+Maize,Maydis Leaf Blight,Kharif,33.4,78.8,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,32.1,57.4,Carbendazim 50% WP (Sett Treatment)
+Cotton,Whitefly (Bemisia tabaci),Kharif,29.2,91.4,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Sugarcane,Early Shoot Borer,Kharif,23.5,46.7,Fipronil 0.3% GR
+Grape,Powdery Mildew (Uncinula necator),Rabi,28.9,89.3,Penconazole 10% EC
+Cotton,Aphids & Jassids,Kharif,34.4,92.5,Flonicamid 50% WG
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,20.9,42.3,Carbendazim 50% WP (Drenching)
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,19.6,90.8,Carbendazim 50% WP (Sett Treatment)
+Grape,Downy Mildew (Plasmopara viticola),Rabi,23.1,66.3,Metalaxyl 8% + Mancozeb 64% WP
+Wheat,Powdery Mildew,Rabi,34.6,54.9,Wettable Sulfur 80% WP
+Potato,Early Blight,Rabi,31.9,47.6,Difenoconazole 25% EC
+Apple,Black Rot,Whole Year,32.8,53.2,Tebuconazole 25.9% EC
+Rice,Brown Spot (Bipolaris oryzae),Kharif,31.4,69.2,Mancozeb 75% WP
+Grape,Downy Mildew (Plasmopara viticola),Rabi,22.7,45.5,Metalaxyl 8% + Mancozeb 64% WP
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,32.3,45.5,Spinetoram 11.7% SC
+Banana,Sigatoka Leaf Spot,Whole Year,20.7,93.0,Propiconazole 25% EC + Mineral Oil
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,26.1,91.4,Propiconazole 25% EC
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,27.5,51.0,Indoxacarb 14.5% SC
+Maize,Maydis Leaf Blight,Kharif,24.4,75.5,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Banana,Sigatoka Leaf Spot,Whole Year,19.8,71.6,Propiconazole 25% EC + Mineral Oil
+Potato,Early Blight,Rabi,32.8,86.8,Difenoconazole 25% EC
+Rice,Brown Spot (Bipolaris oryzae),Kharif,36.3,49.6,Mancozeb 75% WP
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,36.7,42.0,Propiconazole 25% EC
+Cotton,Aphids & Jassids,Kharif,33.8,50.2,Flonicamid 50% WG
+Sugarcane,Early Shoot Borer,Kharif,37.2,90.9,Fipronil 0.3% GR
+Rice,Brown Spot (Bipolaris oryzae),Kharif,18.2,71.2,Mancozeb 75% WP
+Rice,Bacterial Leaf Blight,Kharif,36.6,58.4,Streptocycline + Copper Oxychloride
+Tomato,Late Blight (Phytophthora infestans),Whole Year,37.8,69.9,Cymoxanil 8% + Mancozeb 64% WP
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,35.8,47.4,Indoxacarb 14.5% SC
+Potato,Late Blight,Rabi,27.4,50.6,Dimethomorph 50% WP
+Rice,Bacterial Leaf Blight,Kharif,24.6,80.2,Streptocycline + Copper Oxychloride
+Grape,Downy Mildew (Plasmopara viticola),Rabi,23.1,50.2,Metalaxyl 8% + Mancozeb 64% WP
+Sugarcane,Early Shoot Borer,Kharif,24.7,56.2,Fipronil 0.3% GR
+Grape,Powdery Mildew (Uncinula necator),Rabi,33.1,49.7,Penconazole 10% EC
+Grape,Downy Mildew (Plasmopara viticola),Rabi,35.9,85.5,Metalaxyl 8% + Mancozeb 64% WP
+Potato,Late Blight,Rabi,24.6,62.0,Dimethomorph 50% WP
+Rice,Bacterial Leaf Blight,Kharif,21.7,47.7,Streptocycline + Copper Oxychloride
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,36.7,40.4,Spinetoram 11.7% SC
+Cotton,Aphids & Jassids,Kharif,22.7,81.5,Flonicamid 50% WG
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,24.0,79.8,Spinetoram 11.7% SC
+Rice,Blast (Magnaporthe oryzae),Kharif,23.2,59.8,Tricyclazole 75% WP
+Wheat,Aphids (Sitobion avenae),Rabi,19.2,46.5,Thiamethoxam 25% WG
+Maize,Maydis Leaf Blight,Kharif,21.2,77.7,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,33.4,78.0,Carbendazim 50% WP (Sett Treatment)
+Grape,Downy Mildew (Plasmopara viticola),Rabi,36.3,56.2,Metalaxyl 8% + Mancozeb 64% WP
+Apple,Black Rot,Whole Year,22.4,92.7,Tebuconazole 25.9% EC
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,21.1,81.1,Indoxacarb 14.5% SC
+Apple,Black Rot,Whole Year,25.5,78.6,Tebuconazole 25.9% EC
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,33.1,84.1,Indoxacarb 14.5% SC
+Wheat,Powdery Mildew,Rabi,33.2,77.4,Wettable Sulfur 80% WP
+Apple,Black Rot,Whole Year,35.5,44.5,Tebuconazole 25.9% EC
+Tomato,Late Blight (Phytophthora infestans),Whole Year,28.6,59.9,Cymoxanil 8% + Mancozeb 64% WP
+Apple,Apple Scab (Venturia inaequalis),Whole Year,20.2,85.6,Captan 50% WP
+Potato,Late Blight,Rabi,22.0,69.5,Dimethomorph 50% WP
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,24.6,68.6,Propiconazole 25% EC
+Rice,Bacterial Leaf Blight,Kharif,31.6,79.4,Streptocycline + Copper Oxychloride
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,19.8,68.1,Indoxacarb 14.5% SC
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,19.1,47.3,Carbendazim 50% WP (Drenching)
+Tomato,Early Blight (Alternaria solani),Whole Year,27.1,43.2,Chlorothalonil 75% WP
+Tomato,Late Blight (Phytophthora infestans),Whole Year,31.5,56.9,Cymoxanil 8% + Mancozeb 64% WP
+Rice,Blast (Magnaporthe oryzae),Kharif,25.9,84.9,Tricyclazole 75% WP
+Sugarcane,Early Shoot Borer,Kharif,22.4,44.0,Fipronil 0.3% GR
+Tomato,Early Blight (Alternaria solani),Whole Year,24.9,43.5,Chlorothalonil 75% WP
+Rice,Brown Spot (Bipolaris oryzae),Kharif,36.7,43.8,Mancozeb 75% WP
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,18.6,62.5,Indoxacarb 14.5% SC
+Banana,Sigatoka Leaf Spot,Whole Year,20.7,75.3,Propiconazole 25% EC + Mineral Oil
+Sugarcane,Early Shoot Borer,Kharif,30.9,63.1,Fipronil 0.3% GR
+Cotton,Aphids & Jassids,Kharif,27.0,90.4,Flonicamid 50% WG
+Cotton,Aphids & Jassids,Kharif,25.5,77.6,Flonicamid 50% WG
+Grape,Powdery Mildew (Uncinula necator),Rabi,35.5,47.3,Penconazole 10% EC
+Cotton,Whitefly (Bemisia tabaci),Kharif,20.4,94.6,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Cotton,Aphids & Jassids,Kharif,28.6,80.0,Flonicamid 50% WG
+Wheat,Aphids (Sitobion avenae),Rabi,34.7,81.6,Thiamethoxam 25% WG
+Maize,Maydis Leaf Blight,Kharif,27.3,79.6,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Tomato,Early Blight (Alternaria solani),Whole Year,28.6,85.3,Chlorothalonil 75% WP
+Wheat,Aphids (Sitobion avenae),Rabi,27.2,48.5,Thiamethoxam 25% WG
+Wheat,Powdery Mildew,Rabi,36.7,79.9,Wettable Sulfur 80% WP
+Rice,Bacterial Leaf Blight,Kharif,18.6,76.3,Streptocycline + Copper Oxychloride
+Apple,Black Rot,Whole Year,33.3,88.6,Tebuconazole 25.9% EC
+Rice,Blast (Magnaporthe oryzae),Kharif,22.8,43.7,Tricyclazole 75% WP
+Apple,Black Rot,Whole Year,18.7,72.9,Tebuconazole 25.9% EC
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,35.4,53.5,Carbendazim 50% WP (Sett Treatment)
+Rice,Brown Spot (Bipolaris oryzae),Kharif,26.0,52.9,Mancozeb 75% WP
+Wheat,Powdery Mildew,Rabi,33.1,82.7,Wettable Sulfur 80% WP
+Rice,Brown Plant Hopper,Kharif,28.1,55.9,Imidacloprid 17.8% SL
+Sugarcane,Early Shoot Borer,Kharif,29.5,71.8,Fipronil 0.3% GR
+Banana,Sigatoka Leaf Spot,Whole Year,31.5,57.6,Propiconazole 25% EC + Mineral Oil
+Maize,Maydis Leaf Blight,Kharif,35.5,94.2,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Potato,Late Blight,Rabi,22.4,56.5,Dimethomorph 50% WP
+Rice,Brown Spot (Bipolaris oryzae),Kharif,29.1,72.5,Mancozeb 75% WP
+Sugarcane,Early Shoot Borer,Kharif,36.2,74.4,Fipronil 0.3% GR
+Tomato,Early Blight (Alternaria solani),Whole Year,29.1,42.6,Chlorothalonil 75% WP
+Cotton,Whitefly (Bemisia tabaci),Kharif,36.8,76.9,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,28.5,78.3,Carbendazim 50% WP (Drenching)
+Tomato,Early Blight (Alternaria solani),Whole Year,21.0,60.7,Chlorothalonil 75% WP
+Banana,Sigatoka Leaf Spot,Whole Year,28.8,53.3,Propiconazole 25% EC + Mineral Oil
+Wheat,Aphids (Sitobion avenae),Rabi,24.0,78.9,Thiamethoxam 25% WG
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,27.3,43.2,Carbendazim 50% WP (Drenching)
+Tomato,Early Blight (Alternaria solani),Whole Year,37.4,70.7,Chlorothalonil 75% WP
+Rice,Brown Plant Hopper,Kharif,25.8,54.0,Imidacloprid 17.8% SL
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,30.9,90.7,Spinetoram 11.7% SC
+Cotton,Whitefly (Bemisia tabaci),Kharif,19.8,79.9,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Wheat,Powdery Mildew,Rabi,19.0,60.7,Wettable Sulfur 80% WP
+Apple,Black Rot,Whole Year,30.1,88.0,Tebuconazole 25.9% EC
+Wheat,Powdery Mildew,Rabi,34.1,72.3,Wettable Sulfur 80% WP
+Grape,Powdery Mildew (Uncinula necator),Rabi,29.2,66.4,Penconazole 10% EC
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,24.1,90.0,Spinetoram 11.7% SC
+Wheat,Powdery Mildew,Rabi,36.7,92.9,Wettable Sulfur 80% WP
+Rice,Bacterial Leaf Blight,Kharif,32.9,81.5,Streptocycline + Copper Oxychloride
+Wheat,Aphids (Sitobion avenae),Rabi,31.9,78.7,Thiamethoxam 25% WG
+Cotton,Aphids & Jassids,Kharif,36.3,70.4,Flonicamid 50% WG
+Banana,Sigatoka Leaf Spot,Whole Year,23.7,65.6,Propiconazole 25% EC + Mineral Oil
+Grape,Downy Mildew (Plasmopara viticola),Rabi,25.2,54.4,Metalaxyl 8% + Mancozeb 64% WP
+Potato,Late Blight,Rabi,35.7,65.6,Dimethomorph 50% WP
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,37.6,65.8,Carbendazim 50% WP (Drenching)
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,36.3,60.4,Spinetoram 11.7% SC
+Tomato,Early Blight (Alternaria solani),Whole Year,18.9,87.5,Chlorothalonil 75% WP
+Sugarcane,Early Shoot Borer,Kharif,20.9,54.3,Fipronil 0.3% GR
+Apple,Apple Scab (Venturia inaequalis),Whole Year,29.6,63.0,Captan 50% WP
+Rice,Brown Plant Hopper,Kharif,21.9,52.7,Imidacloprid 17.8% SL
+Apple,Apple Scab (Venturia inaequalis),Whole Year,34.7,67.5,Captan 50% WP
+Grape,Downy Mildew (Plasmopara viticola),Rabi,36.9,58.6,Metalaxyl 8% + Mancozeb 64% WP
+Banana,Sigatoka Leaf Spot,Whole Year,34.4,93.2,Propiconazole 25% EC + Mineral Oil
+Grape,Downy Mildew (Plasmopara viticola),Rabi,32.8,65.3,Metalaxyl 8% + Mancozeb 64% WP
+Sugarcane,Early Shoot Borer,Kharif,33.9,49.3,Fipronil 0.3% GR
+Sugarcane,Early Shoot Borer,Kharif,28.9,50.1,Fipronil 0.3% GR
+Potato,Early Blight,Rabi,37.8,92.6,Difenoconazole 25% EC
+Potato,Late Blight,Rabi,18.7,86.6,Dimethomorph 50% WP
+Grape,Powdery Mildew (Uncinula necator),Rabi,19.0,40.4,Penconazole 10% EC
+Rice,Brown Plant Hopper,Kharif,34.9,52.7,Imidacloprid 17.8% SL
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,21.0,52.0,Carbendazim 50% WP (Sett Treatment)
+Tomato,Late Blight (Phytophthora infestans),Whole Year,25.5,74.0,Cymoxanil 8% + Mancozeb 64% WP
+Grape,Powdery Mildew (Uncinula necator),Rabi,36.7,90.2,Penconazole 10% EC
+Grape,Powdery Mildew (Uncinula necator),Rabi,27.8,40.4,Penconazole 10% EC
+Potato,Early Blight,Rabi,26.2,40.9,Difenoconazole 25% EC
+Sugarcane,Early Shoot Borer,Kharif,23.5,93.8,Fipronil 0.3% GR
+Rice,Blast (Magnaporthe oryzae),Kharif,28.0,78.4,Tricyclazole 75% WP
+Tomato,Early Blight (Alternaria solani),Whole Year,34.1,90.0,Chlorothalonil 75% WP
+Rice,Bacterial Leaf Blight,Kharif,36.4,68.8,Streptocycline + Copper Oxychloride
+Wheat,Aphids (Sitobion avenae),Rabi,21.8,69.0,Thiamethoxam 25% WG
+Cotton,Whitefly (Bemisia tabaci),Kharif,23.3,61.8,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Cotton,Whitefly (Bemisia tabaci),Kharif,37.2,65.2,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Wheat,Aphids (Sitobion avenae),Rabi,37.8,52.4,Thiamethoxam 25% WG
+Grape,Powdery Mildew (Uncinula necator),Rabi,34.6,44.4,Penconazole 10% EC
+Grape,Downy Mildew (Plasmopara viticola),Rabi,33.2,45.1,Metalaxyl 8% + Mancozeb 64% WP
+Cotton,Aphids & Jassids,Kharif,25.5,66.2,Flonicamid 50% WG
+Grape,Downy Mildew (Plasmopara viticola),Rabi,18.2,49.4,Metalaxyl 8% + Mancozeb 64% WP
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,34.9,75.5,Indoxacarb 14.5% SC
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,29.3,87.2,Spinetoram 11.7% SC
+Rice,Bacterial Leaf Blight,Kharif,35.9,90.6,Streptocycline + Copper Oxychloride
+Wheat,Aphids (Sitobion avenae),Rabi,22.2,87.7,Thiamethoxam 25% WG
+Apple,Apple Scab (Venturia inaequalis),Whole Year,27.5,42.6,Captan 50% WP
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,31.7,55.4,Chlorantraniliprole 18.5% SC
+Potato,Early Blight,Rabi,29.3,41.8,Difenoconazole 25% EC
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,18.3,51.4,Spinetoram 11.7% SC
+Rice,Brown Plant Hopper,Kharif,33.0,79.2,Imidacloprid 17.8% SL
+Cotton,Aphids & Jassids,Kharif,36.6,56.5,Flonicamid 50% WG
+Apple,Apple Scab (Venturia inaequalis),Whole Year,22.8,85.9,Captan 50% WP
+Cotton,Aphids & Jassids,Kharif,31.5,69.7,Flonicamid 50% WG
+Cotton,Aphids & Jassids,Kharif,33.1,47.7,Flonicamid 50% WG
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,32.5,67.5,Carbendazim 50% WP (Sett Treatment)
+Cotton,Whitefly (Bemisia tabaci),Kharif,19.1,64.0,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,24.8,82.3,Chlorantraniliprole 18.5% SC
+Apple,Black Rot,Whole Year,25.9,82.5,Tebuconazole 25.9% EC
+Rice,Blast (Magnaporthe oryzae),Kharif,30.7,83.1,Tricyclazole 75% WP
+Tomato,Late Blight (Phytophthora infestans),Whole Year,27.8,59.6,Cymoxanil 8% + Mancozeb 64% WP
+Cotton,Aphids & Jassids,Kharif,26.6,77.4,Flonicamid 50% WG
+Grape,Powdery Mildew (Uncinula necator),Rabi,25.6,82.5,Penconazole 10% EC
+Maize,Maydis Leaf Blight,Kharif,34.0,79.2,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,23.4,60.9,Chlorantraniliprole 18.5% SC
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,30.7,80.7,Carbendazim 50% WP (Drenching)
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,25.2,45.0,Spinetoram 11.7% SC
+Maize,Maydis Leaf Blight,Kharif,26.9,81.9,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Rice,Bacterial Leaf Blight,Kharif,20.7,50.3,Streptocycline + Copper Oxychloride
+Tomato,Late Blight (Phytophthora infestans),Whole Year,29.1,68.2,Cymoxanil 8% + Mancozeb 64% WP
+Rice,Bacterial Leaf Blight,Kharif,18.5,59.5,Streptocycline + Copper Oxychloride
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,29.9,83.1,Chlorantraniliprole 18.5% SC
+Cotton,Aphids & Jassids,Kharif,18.2,62.8,Flonicamid 50% WG
+Banana,Sigatoka Leaf Spot,Whole Year,19.7,89.6,Propiconazole 25% EC + Mineral Oil
+Wheat,Aphids (Sitobion avenae),Rabi,29.4,49.3,Thiamethoxam 25% WG
+Cotton,Aphids & Jassids,Kharif,21.4,54.8,Flonicamid 50% WG
+Maize,Fall Armyworm (Spodoptera frugiperda),Kharif,27.9,43.5,Emamectin Benzoate 5% SG
+Tomato,Early Blight (Alternaria solani),Whole Year,23.5,56.5,Chlorothalonil 75% WP
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,19.5,53.8,Carbendazim 50% WP (Drenching)
+Wheat,Aphids (Sitobion avenae),Rabi,32.4,67.3,Thiamethoxam 25% WG
+Apple,Black Rot,Whole Year,21.9,45.9,Tebuconazole 25.9% EC
+Maize,Maydis Leaf Blight,Kharif,18.1,61.8,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Apple,Black Rot,Whole Year,25.6,87.4,Tebuconazole 25.9% EC
+Tomato,Late Blight (Phytophthora infestans),Whole Year,24.7,84.9,Cymoxanil 8% + Mancozeb 64% WP
+Grape,Downy Mildew (Plasmopara viticola),Rabi,37.5,47.5,Metalaxyl 8% + Mancozeb 64% WP
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,30.1,78.2,Spinetoram 11.7% SC
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,24.3,93.1,Indoxacarb 14.5% SC
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,23.8,78.2,Spinetoram 11.7% SC
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,37.4,83.0,Indoxacarb 14.5% SC
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,25.5,84.9,Spinetoram 11.7% SC
+Cotton,Aphids & Jassids,Kharif,25.3,91.3,Flonicamid 50% WG
+Wheat,Powdery Mildew,Rabi,29.8,70.0,Wettable Sulfur 80% WP
+Grape,Powdery Mildew (Uncinula necator),Rabi,33.4,41.5,Penconazole 10% EC
+Sugarcane,Early Shoot Borer,Kharif,27.2,79.0,Fipronil 0.3% GR
+Tomato,Late Blight (Phytophthora infestans),Whole Year,34.0,85.7,Cymoxanil 8% + Mancozeb 64% WP
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,34.4,83.8,Chlorantraniliprole 18.5% SC
+Tomato,Early Blight (Alternaria solani),Whole Year,31.5,47.7,Chlorothalonil 75% WP
+Maize,Maydis Leaf Blight,Kharif,22.8,76.2,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,26.5,60.7,Carbendazim 50% WP (Sett Treatment)
+Tomato,Late Blight (Phytophthora infestans),Whole Year,37.8,66.4,Cymoxanil 8% + Mancozeb 64% WP
+Cotton,Aphids & Jassids,Kharif,28.7,90.8,Flonicamid 50% WG
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,26.4,42.0,Carbendazim 50% WP (Sett Treatment)
+Cotton,Whitefly (Bemisia tabaci),Kharif,32.0,84.7,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Apple,Black Rot,Whole Year,30.8,44.7,Tebuconazole 25.9% EC
+Banana,Sigatoka Leaf Spot,Whole Year,23.0,76.6,Propiconazole 25% EC + Mineral Oil
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,30.9,42.4,Propiconazole 25% EC
+Grape,Downy Mildew (Plasmopara viticola),Rabi,31.5,62.0,Metalaxyl 8% + Mancozeb 64% WP
+Banana,Sigatoka Leaf Spot,Whole Year,24.6,83.8,Propiconazole 25% EC + Mineral Oil
+Rice,Bacterial Leaf Blight,Kharif,18.2,54.2,Streptocycline + Copper Oxychloride
+Potato,Late Blight,Rabi,32.9,70.7,Dimethomorph 50% WP
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,29.5,64.5,Carbendazim 50% WP (Sett Treatment)
+Cotton,Aphids & Jassids,Kharif,27.3,77.4,Flonicamid 50% WG
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,28.0,59.0,Carbendazim 50% WP (Sett Treatment)
+Rice,Blast (Magnaporthe oryzae),Kharif,27.7,56.2,Tricyclazole 75% WP
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,20.3,91.7,Chlorantraniliprole 18.5% SC
+Rice,Brown Plant Hopper,Kharif,25.0,58.9,Imidacloprid 17.8% SL
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,22.1,66.6,Carbendazim 50% WP (Drenching)
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,20.0,79.7,Indoxacarb 14.5% SC
+Tomato,Late Blight (Phytophthora infestans),Whole Year,24.4,56.5,Cymoxanil 8% + Mancozeb 64% WP
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,32.2,41.2,Carbendazim 50% WP (Drenching)
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,31.0,77.2,Spinetoram 11.7% SC
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,36.6,80.7,Propiconazole 25% EC
+Potato,Late Blight,Rabi,21.5,48.8,Dimethomorph 50% WP
+Potato,Early Blight,Rabi,26.5,65.4,Difenoconazole 25% EC
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,26.1,50.1,Carbendazim 50% WP (Drenching)
+Grape,Downy Mildew (Plasmopara viticola),Rabi,31.1,61.8,Metalaxyl 8% + Mancozeb 64% WP
+Sugarcane,Early Shoot Borer,Kharif,30.3,50.9,Fipronil 0.3% GR
+Apple,Apple Scab (Venturia inaequalis),Whole Year,26.6,40.2,Captan 50% WP
+Wheat,Powdery Mildew,Rabi,22.1,81.4,Wettable Sulfur 80% WP
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,33.9,71.8,Carbendazim 50% WP (Drenching)
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,35.4,50.3,Carbendazim 50% WP (Drenching)
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,21.9,46.3,Spinetoram 11.7% SC
+Grape,Powdery Mildew (Uncinula necator),Rabi,35.3,69.0,Penconazole 10% EC
+Grape,Downy Mildew (Plasmopara viticola),Rabi,24.3,61.4,Metalaxyl 8% + Mancozeb 64% WP
+Cotton,Aphids & Jassids,Kharif,29.7,59.1,Flonicamid 50% WG
+Tomato,Late Blight (Phytophthora infestans),Whole Year,30.3,84.8,Cymoxanil 8% + Mancozeb 64% WP
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,34.0,90.5,Carbendazim 50% WP (Sett Treatment)
+Apple,Apple Scab (Venturia inaequalis),Whole Year,19.7,47.4,Captan 50% WP
+Rice,Bacterial Leaf Blight,Kharif,22.8,46.4,Streptocycline + Copper Oxychloride
+Cotton,Whitefly (Bemisia tabaci),Kharif,31.9,68.1,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Tomato,Early Blight (Alternaria solani),Whole Year,29.9,71.6,Chlorothalonil 75% WP
+Tomato,Early Blight (Alternaria solani),Whole Year,21.7,75.0,Chlorothalonil 75% WP
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,36.4,91.2,Carbendazim 50% WP (Sett Treatment)
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,29.1,66.9,Propiconazole 25% EC
+Rice,Brown Plant Hopper,Kharif,21.7,86.3,Imidacloprid 17.8% SL
+Apple,Black Rot,Whole Year,19.1,59.7,Tebuconazole 25.9% EC
+Rice,Blast (Magnaporthe oryzae),Kharif,27.7,50.7,Tricyclazole 75% WP
+Cotton,Aphids & Jassids,Kharif,37.3,67.8,Flonicamid 50% WG
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,26.2,67.0,Indoxacarb 14.5% SC
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,34.8,66.9,Carbendazim 50% WP (Sett Treatment)
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,29.3,83.8,Chlorantraniliprole 18.5% SC
+Wheat,Aphids (Sitobion avenae),Rabi,23.8,55.1,Thiamethoxam 25% WG
+Potato,Early Blight,Rabi,23.8,82.9,Difenoconazole 25% EC
+Apple,Apple Scab (Venturia inaequalis),Whole Year,32.9,82.1,Captan 50% WP
+Potato,Early Blight,Rabi,28.2,71.5,Difenoconazole 25% EC
+Maize,Fall Armyworm (Spodoptera frugiperda),Kharif,33.5,85.3,Emamectin Benzoate 5% SG
+Cotton,Whitefly (Bemisia tabaci),Kharif,28.8,81.6,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Banana,Sigatoka Leaf Spot,Whole Year,32.4,70.0,Propiconazole 25% EC + Mineral Oil
+Tomato,Early Blight (Alternaria solani),Whole Year,20.0,85.7,Chlorothalonil 75% WP
+Banana,Sigatoka Leaf Spot,Whole Year,23.0,88.1,Propiconazole 25% EC + Mineral Oil
+Rice,Brown Spot (Bipolaris oryzae),Kharif,27.0,59.2,Mancozeb 75% WP
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,26.8,94.7,Chlorantraniliprole 18.5% SC
+Banana,Sigatoka Leaf Spot,Whole Year,34.2,51.5,Propiconazole 25% EC + Mineral Oil
+Sugarcane,Early Shoot Borer,Kharif,29.8,59.3,Fipronil 0.3% GR
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,30.2,63.5,Carbendazim 50% WP (Sett Treatment)
+Apple,Black Rot,Whole Year,20.8,51.4,Tebuconazole 25.9% EC
+Wheat,Powdery Mildew,Rabi,34.1,71.4,Wettable Sulfur 80% WP
+Potato,Early Blight,Rabi,23.6,69.6,Difenoconazole 25% EC
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,37.6,56.1,Spinetoram 11.7% SC
+Apple,Apple Scab (Venturia inaequalis),Whole Year,23.3,87.2,Captan 50% WP
+Grape,Powdery Mildew (Uncinula necator),Rabi,34.3,47.5,Penconazole 10% EC
+Banana,Sigatoka Leaf Spot,Whole Year,33.7,90.5,Propiconazole 25% EC + Mineral Oil
+Maize,Fall Armyworm (Spodoptera frugiperda),Kharif,35.3,47.0,Emamectin Benzoate 5% SG
+Rice,Brown Plant Hopper,Kharif,23.0,79.1,Imidacloprid 17.8% SL
+Wheat,Aphids (Sitobion avenae),Rabi,33.2,77.2,Thiamethoxam 25% WG
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,20.8,74.8,Indoxacarb 14.5% SC
+Grape,Downy Mildew (Plasmopara viticola),Rabi,26.3,64.9,Metalaxyl 8% + Mancozeb 64% WP
+Grape,Downy Mildew (Plasmopara viticola),Rabi,33.9,82.3,Metalaxyl 8% + Mancozeb 64% WP
+Cotton,Aphids & Jassids,Kharif,28.3,55.3,Flonicamid 50% WG
+Cotton,Whitefly (Bemisia tabaci),Kharif,27.1,66.8,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Apple,Apple Scab (Venturia inaequalis),Whole Year,18.0,82.6,Captan 50% WP
+Sugarcane,Early Shoot Borer,Kharif,19.9,93.5,Fipronil 0.3% GR
+Grape,Downy Mildew (Plasmopara viticola),Rabi,31.3,59.7,Metalaxyl 8% + Mancozeb 64% WP
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,33.9,61.9,Chlorantraniliprole 18.5% SC
+Tomato,Early Blight (Alternaria solani),Whole Year,34.5,67.2,Chlorothalonil 75% WP
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,34.6,58.6,Spinetoram 11.7% SC
+Apple,Apple Scab (Venturia inaequalis),Whole Year,20.6,86.9,Captan 50% WP
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,24.9,77.5,Carbendazim 50% WP (Drenching)
+Rice,Brown Spot (Bipolaris oryzae),Kharif,18.9,74.4,Mancozeb 75% WP
+Tomato,Late Blight (Phytophthora infestans),Whole Year,18.3,91.1,Cymoxanil 8% + Mancozeb 64% WP
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,26.8,40.0,Propiconazole 25% EC
+Tomato,Early Blight (Alternaria solani),Whole Year,22.0,77.9,Chlorothalonil 75% WP
+Rice,Brown Plant Hopper,Kharif,35.6,56.6,Imidacloprid 17.8% SL
+Maize,Fall Armyworm (Spodoptera frugiperda),Kharif,19.9,59.8,Emamectin Benzoate 5% SG
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,25.4,89.7,Chlorantraniliprole 18.5% SC
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,19.0,74.4,Propiconazole 25% EC
+Sugarcane,Early Shoot Borer,Kharif,32.0,52.9,Fipronil 0.3% GR
+Grape,Downy Mildew (Plasmopara viticola),Rabi,19.8,45.2,Metalaxyl 8% + Mancozeb 64% WP
+Wheat,Powdery Mildew,Rabi,27.5,47.3,Wettable Sulfur 80% WP
+Wheat,Aphids (Sitobion avenae),Rabi,28.4,64.5,Thiamethoxam 25% WG
+Rice,Blast (Magnaporthe oryzae),Kharif,31.9,84.9,Tricyclazole 75% WP
+Tomato,Early Blight (Alternaria solani),Whole Year,31.9,66.3,Chlorothalonil 75% WP
+Wheat,Aphids (Sitobion avenae),Rabi,25.7,80.2,Thiamethoxam 25% WG
+Rice,Bacterial Leaf Blight,Kharif,20.1,60.2,Streptocycline + Copper Oxychloride
+Maize,Maydis Leaf Blight,Kharif,20.7,82.5,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Banana,Sigatoka Leaf Spot,Whole Year,35.5,75.3,Propiconazole 25% EC + Mineral Oil
+Grape,Powdery Mildew (Uncinula necator),Rabi,20.9,69.2,Penconazole 10% EC
+Rice,Blast (Magnaporthe oryzae),Kharif,30.2,49.0,Tricyclazole 75% WP
+Cotton,Whitefly (Bemisia tabaci),Kharif,32.4,74.5,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Rice,Brown Plant Hopper,Kharif,36.4,73.9,Imidacloprid 17.8% SL
+Tomato,Late Blight (Phytophthora infestans),Whole Year,35.2,44.8,Cymoxanil 8% + Mancozeb 64% WP
+Rice,Bacterial Leaf Blight,Kharif,20.8,46.8,Streptocycline + Copper Oxychloride
+Sugarcane,Early Shoot Borer,Kharif,25.7,93.0,Fipronil 0.3% GR
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,33.8,53.6,Spinetoram 11.7% SC
+Grape,Downy Mildew (Plasmopara viticola),Rabi,19.7,70.4,Metalaxyl 8% + Mancozeb 64% WP
+Apple,Black Rot,Whole Year,32.4,55.7,Tebuconazole 25.9% EC
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,18.5,86.6,Carbendazim 50% WP (Sett Treatment)
+Maize,Maydis Leaf Blight,Kharif,22.1,73.4,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Wheat,Powdery Mildew,Rabi,33.0,56.3,Wettable Sulfur 80% WP
+Rice,Brown Spot (Bipolaris oryzae),Kharif,33.7,83.7,Mancozeb 75% WP
+Wheat,Aphids (Sitobion avenae),Rabi,27.9,46.2,Thiamethoxam 25% WG
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,30.8,43.9,Indoxacarb 14.5% SC
+Rice,Blast (Magnaporthe oryzae),Kharif,37.7,91.4,Tricyclazole 75% WP
+Rice,Brown Plant Hopper,Kharif,25.7,86.1,Imidacloprid 17.8% SL
+Tomato,Early Blight (Alternaria solani),Whole Year,25.3,77.6,Chlorothalonil 75% WP
+Banana,Sigatoka Leaf Spot,Whole Year,27.4,94.3,Propiconazole 25% EC + Mineral Oil
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,18.3,43.7,Chlorantraniliprole 18.5% SC
+Maize,Fall Armyworm (Spodoptera frugiperda),Kharif,22.3,90.7,Emamectin Benzoate 5% SG
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,26.0,55.8,Carbendazim 50% WP (Drenching)
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,28.0,62.8,Carbendazim 50% WP (Sett Treatment)
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,26.0,75.2,Carbendazim 50% WP (Sett Treatment)
+Potato,Early Blight,Rabi,30.3,55.3,Difenoconazole 25% EC
+Maize,Maydis Leaf Blight,Kharif,19.6,90.7,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,21.1,58.0,Carbendazim 50% WP (Drenching)
+Apple,Apple Scab (Venturia inaequalis),Whole Year,30.7,85.9,Captan 50% WP
+Grape,Powdery Mildew (Uncinula necator),Rabi,30.9,57.1,Penconazole 10% EC
+Tomato,Early Blight (Alternaria solani),Whole Year,32.6,86.6,Chlorothalonil 75% WP
+Rice,Brown Spot (Bipolaris oryzae),Kharif,22.9,90.9,Mancozeb 75% WP
+Rice,Bacterial Leaf Blight,Kharif,27.1,73.5,Streptocycline + Copper Oxychloride
+Maize,Maydis Leaf Blight,Kharif,31.3,76.2,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,20.4,78.9,Propiconazole 25% EC
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,18.2,67.3,Carbendazim 50% WP (Sett Treatment)
+Cotton,Whitefly (Bemisia tabaci),Kharif,28.5,83.1,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Sugarcane,Early Shoot Borer,Kharif,23.2,60.5,Fipronil 0.3% GR
+Sugarcane,Early Shoot Borer,Kharif,33.6,54.8,Fipronil 0.3% GR
+Rice,Bacterial Leaf Blight,Kharif,33.4,41.6,Streptocycline + Copper Oxychloride
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,26.6,68.8,Carbendazim 50% WP (Drenching)
+Maize,Fall Armyworm (Spodoptera frugiperda),Kharif,32.2,71.7,Emamectin Benzoate 5% SG
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,27.9,68.1,Chlorantraniliprole 18.5% SC
+Rice,Brown Spot (Bipolaris oryzae),Kharif,28.0,71.2,Mancozeb 75% WP
+Cotton,Whitefly (Bemisia tabaci),Kharif,21.1,82.5,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Apple,Apple Scab (Venturia inaequalis),Whole Year,31.5,46.3,Captan 50% WP
+Sugarcane,Early Shoot Borer,Kharif,28.2,42.4,Fipronil 0.3% GR
+Rice,Blast (Magnaporthe oryzae),Kharif,22.9,65.9,Tricyclazole 75% WP
+Cotton,Aphids & Jassids,Kharif,36.4,49.8,Flonicamid 50% WG
+Rice,Brown Spot (Bipolaris oryzae),Kharif,29.1,90.3,Mancozeb 75% WP
+Sugarcane,Early Shoot Borer,Kharif,31.1,52.3,Fipronil 0.3% GR
+Wheat,Aphids (Sitobion avenae),Rabi,26.3,79.6,Thiamethoxam 25% WG
+Maize,Fall Armyworm (Spodoptera frugiperda),Kharif,34.5,71.4,Emamectin Benzoate 5% SG
+Rice,Bacterial Leaf Blight,Kharif,28.0,89.6,Streptocycline + Copper Oxychloride
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,22.5,68.4,Propiconazole 25% EC
+Rice,Brown Spot (Bipolaris oryzae),Kharif,37.1,43.8,Mancozeb 75% WP
+Tomato,Late Blight (Phytophthora infestans),Whole Year,35.3,82.5,Cymoxanil 8% + Mancozeb 64% WP
+Maize,Maydis Leaf Blight,Kharif,24.5,70.4,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Rice,Blast (Magnaporthe oryzae),Kharif,25.4,56.0,Tricyclazole 75% WP
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,24.1,74.2,Carbendazim 50% WP (Drenching)
+Tomato,Late Blight (Phytophthora infestans),Whole Year,25.4,93.5,Cymoxanil 8% + Mancozeb 64% WP
+Banana,Sigatoka Leaf Spot,Whole Year,33.5,80.3,Propiconazole 25% EC + Mineral Oil
+Potato,Early Blight,Rabi,33.2,53.5,Difenoconazole 25% EC
+Rice,Blast (Magnaporthe oryzae),Kharif,36.6,41.3,Tricyclazole 75% WP
+Potato,Early Blight,Rabi,24.9,86.2,Difenoconazole 25% EC
+Rice,Blast (Magnaporthe oryzae),Kharif,37.0,40.1,Tricyclazole 75% WP
+Grape,Powdery Mildew (Uncinula necator),Rabi,25.5,80.6,Penconazole 10% EC
+Maize,Maydis Leaf Blight,Kharif,20.1,69.1,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Wheat,Aphids (Sitobion avenae),Rabi,26.4,92.9,Thiamethoxam 25% WG
+Rice,Brown Plant Hopper,Kharif,32.2,45.1,Imidacloprid 17.8% SL
+Wheat,Aphids (Sitobion avenae),Rabi,35.9,68.6,Thiamethoxam 25% WG
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,35.9,65.2,Carbendazim 50% WP (Sett Treatment)
+Sugarcane,Early Shoot Borer,Kharif,19.7,45.3,Fipronil 0.3% GR
+Rice,Brown Plant Hopper,Kharif,30.7,61.7,Imidacloprid 17.8% SL
+Apple,Apple Scab (Venturia inaequalis),Whole Year,29.4,63.9,Captan 50% WP
+Rice,Brown Plant Hopper,Kharif,22.7,54.4,Imidacloprid 17.8% SL
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,36.5,61.6,Spinetoram 11.7% SC
+Sugarcane,Early Shoot Borer,Kharif,24.5,64.9,Fipronil 0.3% GR
+Wheat,Aphids (Sitobion avenae),Rabi,19.5,51.1,Thiamethoxam 25% WG
+Banana,Sigatoka Leaf Spot,Whole Year,33.4,46.0,Propiconazole 25% EC + Mineral Oil
+Rice,Bacterial Leaf Blight,Kharif,21.3,65.6,Streptocycline + Copper Oxychloride
+Tomato,Early Blight (Alternaria solani),Whole Year,20.4,59.7,Chlorothalonil 75% WP
+Banana,Sigatoka Leaf Spot,Whole Year,22.2,57.0,Propiconazole 25% EC + Mineral Oil
+Maize,Fall Armyworm (Spodoptera frugiperda),Kharif,35.0,45.0,Emamectin Benzoate 5% SG
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,31.7,85.5,Carbendazim 50% WP (Drenching)
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,30.1,51.8,Carbendazim 50% WP (Sett Treatment)
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,21.0,79.1,Spinetoram 11.7% SC
+Cotton,Whitefly (Bemisia tabaci),Kharif,25.9,42.7,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Maize,Maydis Leaf Blight,Kharif,23.2,94.5,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Rice,Blast (Magnaporthe oryzae),Kharif,37.0,87.0,Tricyclazole 75% WP
+Potato,Early Blight,Rabi,33.0,53.7,Difenoconazole 25% EC
+Tomato,Late Blight (Phytophthora infestans),Whole Year,20.0,83.7,Cymoxanil 8% + Mancozeb 64% WP
+Rice,Bacterial Leaf Blight,Kharif,18.2,85.7,Streptocycline + Copper Oxychloride
+Wheat,Aphids (Sitobion avenae),Rabi,20.6,85.3,Thiamethoxam 25% WG
+Cotton,Whitefly (Bemisia tabaci),Kharif,31.7,91.6,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,29.6,54.2,Chlorantraniliprole 18.5% SC
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,18.4,43.5,Chlorantraniliprole 18.5% SC
+Grape,Downy Mildew (Plasmopara viticola),Rabi,26.9,47.1,Metalaxyl 8% + Mancozeb 64% WP
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,24.6,42.3,Carbendazim 50% WP (Drenching)
+Tomato,Late Blight (Phytophthora infestans),Whole Year,19.0,90.8,Cymoxanil 8% + Mancozeb 64% WP
+Tomato,Early Blight (Alternaria solani),Whole Year,34.4,61.7,Chlorothalonil 75% WP
+Rice,Blast (Magnaporthe oryzae),Kharif,25.7,63.5,Tricyclazole 75% WP
+Cotton,Whitefly (Bemisia tabaci),Kharif,22.3,50.3,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Maize,Fall Armyworm (Spodoptera frugiperda),Kharif,26.9,48.2,Emamectin Benzoate 5% SG
+Apple,Black Rot,Whole Year,30.4,53.5,Tebuconazole 25.9% EC
+Maize,Maydis Leaf Blight,Kharif,28.0,88.6,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,19.2,55.4,Indoxacarb 14.5% SC
+Rice,Brown Plant Hopper,Kharif,26.4,75.3,Imidacloprid 17.8% SL
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,28.5,74.7,Carbendazim 50% WP (Drenching)
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,28.9,41.1,Carbendazim 50% WP (Drenching)
+Cotton,Aphids & Jassids,Kharif,33.6,59.8,Flonicamid 50% WG
+Potato,Early Blight,Rabi,33.6,58.9,Difenoconazole 25% EC
+Apple,Apple Scab (Venturia inaequalis),Whole Year,28.0,61.4,Captan 50% WP
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,18.5,72.8,Propiconazole 25% EC
+Rice,Blast (Magnaporthe oryzae),Kharif,35.9,82.8,Tricyclazole 75% WP
+Rice,Brown Spot (Bipolaris oryzae),Kharif,34.2,65.9,Mancozeb 75% WP
+Cotton,Whitefly (Bemisia tabaci),Kharif,33.3,95.0,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,20.0,76.1,Propiconazole 25% EC
+Maize,Fall Armyworm (Spodoptera frugiperda),Kharif,28.7,83.5,Emamectin Benzoate 5% SG
+Sugarcane,Early Shoot Borer,Kharif,19.1,94.8,Fipronil 0.3% GR
+Wheat,Aphids (Sitobion avenae),Rabi,29.5,94.0,Thiamethoxam 25% WG
+Cotton,Aphids & Jassids,Kharif,25.1,86.2,Flonicamid 50% WG
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,21.5,72.6,Propiconazole 25% EC
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,32.8,59.7,Carbendazim 50% WP (Drenching)
+Apple,Apple Scab (Venturia inaequalis),Whole Year,18.6,78.5,Captan 50% WP
+Apple,Apple Scab (Venturia inaequalis),Whole Year,29.3,71.0,Captan 50% WP
+Wheat,Powdery Mildew,Rabi,34.7,84.6,Wettable Sulfur 80% WP
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,28.8,49.7,Indoxacarb 14.5% SC
+Rice,Brown Spot (Bipolaris oryzae),Kharif,19.8,52.8,Mancozeb 75% WP
+Wheat,Aphids (Sitobion avenae),Rabi,18.4,66.3,Thiamethoxam 25% WG
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,36.4,51.1,Spinetoram 11.7% SC
+Rice,Brown Plant Hopper,Kharif,24.8,49.8,Imidacloprid 17.8% SL
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,34.9,57.8,Carbendazim 50% WP (Drenching)
+Rice,Blast (Magnaporthe oryzae),Kharif,21.0,78.8,Tricyclazole 75% WP
+Rice,Brown Plant Hopper,Kharif,33.5,86.6,Imidacloprid 17.8% SL
+Cotton,Whitefly (Bemisia tabaci),Kharif,37.2,60.5,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Grape,Powdery Mildew (Uncinula necator),Rabi,25.9,45.6,Penconazole 10% EC
+Maize,Maydis Leaf Blight,Kharif,24.5,93.7,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Sugarcane,Early Shoot Borer,Kharif,37.0,83.6,Fipronil 0.3% GR
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,31.0,49.6,Indoxacarb 14.5% SC
+Potato,Early Blight,Rabi,31.9,91.1,Difenoconazole 25% EC
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,25.1,76.6,Carbendazim 50% WP (Drenching)
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,25.6,80.4,Propiconazole 25% EC
+Maize,Maydis Leaf Blight,Kharif,20.5,80.1,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,37.0,61.5,Carbendazim 50% WP (Sett Treatment)
+Banana,Sigatoka Leaf Spot,Whole Year,37.3,41.8,Propiconazole 25% EC + Mineral Oil
+Apple,Black Rot,Whole Year,24.4,84.5,Tebuconazole 25.9% EC
+Apple,Black Rot,Whole Year,22.4,71.1,Tebuconazole 25.9% EC
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,20.8,81.0,Indoxacarb 14.5% SC
+Wheat,Aphids (Sitobion avenae),Rabi,24.9,57.6,Thiamethoxam 25% WG
+Grape,Downy Mildew (Plasmopara viticola),Rabi,35.7,44.9,Metalaxyl 8% + Mancozeb 64% WP
+Sugarcane,Red Rot (Colletotrichum falcatum),Kharif,31.4,80.1,Carbendazim 50% WP (Sett Treatment)
+Cotton,Pink Bollworm (Pectinophora gossypiella),Kharif,26.9,54.6,Spinetoram 11.7% SC
+Wheat,Aphids (Sitobion avenae),Rabi,31.9,59.3,Thiamethoxam 25% WG
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,20.2,40.1,Carbendazim 50% WP (Drenching)
+Cotton,Aphids & Jassids,Kharif,26.8,63.1,Flonicamid 50% WG
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,35.7,67.1,Propiconazole 25% EC
+Cotton,Aphids & Jassids,Kharif,25.0,60.6,Flonicamid 50% WG
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,33.8,71.8,Indoxacarb 14.5% SC
+Banana,Sigatoka Leaf Spot,Whole Year,31.7,48.9,Propiconazole 25% EC + Mineral Oil
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,34.0,41.8,Chlorantraniliprole 18.5% SC
+Rice,Blast (Magnaporthe oryzae),Kharif,24.4,92.3,Tricyclazole 75% WP
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,24.8,88.8,Chlorantraniliprole 18.5% SC
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,32.6,70.1,Propiconazole 25% EC
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,24.8,94.2,Chlorantraniliprole 18.5% SC
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,32.1,63.7,Indoxacarb 14.5% SC
+Grape,Downy Mildew (Plasmopara viticola),Rabi,21.3,88.9,Metalaxyl 8% + Mancozeb 64% WP
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,19.1,58.2,Propiconazole 25% EC
+Wheat,Powdery Mildew,Rabi,26.2,70.5,Wettable Sulfur 80% WP
+Sugarcane,Early Shoot Borer,Kharif,28.8,76.3,Fipronil 0.3% GR
+Maize,Maydis Leaf Blight,Kharif,22.8,42.7,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Apple,Apple Scab (Venturia inaequalis),Whole Year,29.0,67.0,Captan 50% WP
+Rice,Brown Spot (Bipolaris oryzae),Kharif,25.2,63.5,Mancozeb 75% WP
+Maize,Maydis Leaf Blight,Kharif,34.5,74.4,Azoxystrobin 18.2% + Difenoconazole 11.4% SC
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,22.0,41.4,Indoxacarb 14.5% SC
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,30.8,93.7,Propiconazole 25% EC
+Tomato,Fruit Borer (Helicoverpa armigera),Whole Year,34.9,57.0,Indoxacarb 14.5% SC
+Cotton,Aphids & Jassids,Kharif,27.4,89.2,Flonicamid 50% WG
+Maize,Fall Armyworm (Spodoptera frugiperda),Kharif,19.8,69.9,Emamectin Benzoate 5% SG
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,25.4,61.0,Propiconazole 25% EC
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,26.9,54.5,Propiconazole 25% EC
+Tomato,Late Blight (Phytophthora infestans),Whole Year,23.3,86.0,Cymoxanil 8% + Mancozeb 64% WP
+Apple,Apple Scab (Venturia inaequalis),Whole Year,19.2,81.4,Captan 50% WP
+Grape,Powdery Mildew (Uncinula necator),Rabi,19.9,76.7,Penconazole 10% EC
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,28.8,93.4,Carbendazim 50% WP (Drenching)
+Apple,Apple Scab (Venturia inaequalis),Whole Year,22.6,43.4,Captan 50% WP
+Cotton,Aphids & Jassids,Kharif,34.4,63.0,Flonicamid 50% WG
+Potato,Early Blight,Rabi,31.7,91.5,Difenoconazole 25% EC
+Apple,Apple Scab (Venturia inaequalis),Whole Year,35.6,66.2,Captan 50% WP
+Rice,Stem Borer (Scirpophaga incertulas),Kharif,25.9,87.0,Chlorantraniliprole 18.5% SC
+Rice,Brown Spot (Bipolaris oryzae),Kharif,28.0,89.5,Mancozeb 75% WP
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,29.4,94.1,Carbendazim 50% WP (Drenching)
+Rice,Brown Plant Hopper,Kharif,20.4,81.6,Imidacloprid 17.8% SL
+Wheat,Yellow Rust (Puccinia striiformis),Rabi,37.0,49.2,Propiconazole 25% EC
+Wheat,Powdery Mildew,Rabi,34.2,46.9,Wettable Sulfur 80% WP
+Tomato,Early Blight (Alternaria solani),Whole Year,19.6,77.6,Chlorothalonil 75% WP
+Wheat,Powdery Mildew,Rabi,37.9,74.5,Wettable Sulfur 80% WP
+Apple,Black Rot,Whole Year,23.2,90.1,Tebuconazole 25.9% EC
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,19.3,61.3,Carbendazim 50% WP (Drenching)
+Cotton,Aphids & Jassids,Kharif,29.0,87.1,Flonicamid 50% WG
+Potato,Late Blight,Rabi,27.2,88.0,Dimethomorph 50% WP
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,32.0,72.3,Carbendazim 50% WP (Drenching)
+Banana,Panama Wilt (Fusarium oxysporum),Whole Year,26.4,62.8,Carbendazim 50% WP (Drenching)
+Rice,Brown Plant Hopper,Kharif,29.3,72.0,Imidacloprid 17.8% SL
+Rice,Bacterial Leaf Blight,Kharif,36.5,70.9,Streptocycline + Copper Oxychloride
+Rice,Bacterial Leaf Blight,Kharif,33.7,87.7,Streptocycline + Copper Oxychloride
+Cotton,Whitefly (Bemisia tabaci),Kharif,35.6,54.5,Pyriproxyfen 10% EC + Diafenthiuron 50% WP
+Grape,Downy Mildew (Plasmopara viticola),Rabi,27.7,73.5,Metalaxyl 8% + Mancozeb 64% WP
+Rice,Brown Spot (Bipolaris oryzae),Kharif,21.4,62.2,Mancozeb 75% WP
+Apple,Black Rot,Whole Year,30.2,78.2,Tebuconazole 25.9% EC
+Rice,Brown Spot (Bipolaris oryzae),Kharif,25.9,88.3,Mancozeb 75% WP
