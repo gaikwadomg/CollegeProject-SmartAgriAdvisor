@@ -1,20 +1,29 @@
 import customtkinter as ctk
 from tkinter import filedialog
 from PIL import Image
-from ui.frames.content_frame import ContentFrame
-from ui.components.cards import ThemeManager, InputGroup, ResultPanel
+
+from ui.base_frame import ContentFrame
+from ui.theme import ThemeManager
+from ui.components.result_panel import ResultPanel
 from utils.logger import get_logger
 
 logger = get_logger(__name__)
+
 
 class ImageViewer(ctk.CTkFrame):
     def __init__(self, master, title, **kwargs):
         super().__init__(master, fg_color="transparent", **kwargs)
         
-        self.label_title = ctk.CTkLabel(self, text=title, font=ctk.CTkFont(size=14, weight="bold"))
+        self.label_title = ctk.CTkLabel(self, text=title, font=ThemeManager.get_font("subheading"))
         self.label_title.pack(pady=(0, 5))
         
-        self.image_label = ctk.CTkLabel(self, text="", width=250, height=250, fg_color=ThemeManager.get_color("card_bg"))
+        self.image_label = ctk.CTkLabel(
+            self,
+            text="No Image",
+            width=250,
+            height=250,
+            fg_color=ThemeManager.get_color("card")
+        )
         self.image_label.pack(expand=True, fill="both")
         
     def set_image(self, pil_image):
@@ -23,6 +32,7 @@ class ImageViewer(ctk.CTkFrame):
             self.image_label.configure(image=ctk_image, text="")
         else:
             self.image_label.configure(image=None, text="No Image")
+
 
 class DiseaseFrame(ContentFrame):
     def __init__(self, master, db, user, prediction_service=None, **kwargs):
@@ -37,25 +47,25 @@ class DiseaseFrame(ContentFrame):
     
     def _setup_ui(self):
         # Top section: Upload area
-        self.upload_card = ctk.CTkFrame(self.scrollable_frame, fg_color=ThemeManager.get_color("card_bg"), corner_radius=12)
-        self.upload_card.pack(fill="x", padx=20, pady=(0, 20))
+        self.upload_card = ctk.CTkFrame(self.content_area, fg_color=ThemeManager.get_color("card"), corner_radius=12)
+        self.upload_card.pack(fill="x", padx=10, pady=(0, 20))
         
         self.upload_btn = ctk.CTkButton(
             self.upload_card, 
-            text="📷 Click to Upload", 
-            font=ctk.CTkFont(size=16, weight="bold"),
+            text="📷 Click to Upload Leaf Image", 
+            font=ThemeManager.get_font("subheading"),
             height=80,
             fg_color="transparent",
             border_width=2,
             border_color=ThemeManager.get_color("primary"),
-            border_spacing=10,
+            hover_color=ThemeManager.get_color("surface"),
             command=self._upload_image
         )
         self.upload_btn.pack(padx=20, pady=20, expand=True, fill="x")
         
         # Image view section
-        self.images_frame = ctk.CTkFrame(self.scrollable_frame, fg_color="transparent")
-        self.images_frame.pack(fill="x", padx=20, pady=(0, 20))
+        self.images_frame = ctk.CTkFrame(self.content_area, fg_color="transparent")
+        self.images_frame.pack(fill="x", padx=10, pady=(0, 20))
         
         self.images_frame.grid_columnconfigure((0, 1), weight=1)
         
@@ -67,20 +77,22 @@ class DiseaseFrame(ContentFrame):
         
         # Action button
         self.detect_btn = ctk.CTkButton(
-            self.scrollable_frame,
+            self.content_area,
             text="Detect Disease",
-            font=ctk.CTkFont(size=16, weight="bold"),
-            height=40,
+            font=ThemeManager.get_font("subheading"),
+            height=45,
+            fg_color=ThemeManager.get_color("primary"),
+            hover_color=ThemeManager.get_color("accent"),
             state="disabled",
             command=self._detect_disease
         )
         self.detect_btn.pack(pady=(0, 20))
         
         # Results Section
-        self.results_panel = ResultPanel(self.scrollable_frame, title="Detection Results")
-        self.results_panel.pack(fill="x", padx=20, pady=(0, 20))
-        self.results_panel.pack_forget() # Hide initially
-        
+        self.results_panel = ResultPanel(self.content_area, title="Detection Results")
+        self.results_panel.pack(fill="x", padx=10, pady=(0, 20))
+        self.results_panel.pack_forget()
+
     def _upload_image(self):
         file_path = filedialog.askopenfilename(
             title="Select Leaf Image",
@@ -89,7 +101,8 @@ class DiseaseFrame(ContentFrame):
         
         if file_path:
             self.current_image_path = file_path
-            self.upload_btn.configure(text=f"Selected: {file_path.split('/')[-1]}")
+            filename = file_path.replace("\\", "/").split("/")[-1]
+            self.upload_btn.configure(text=f"Selected: {filename}")
             
             # Display image
             if self.prediction_service and hasattr(self.prediction_service, 'disease_predictor'):
@@ -118,7 +131,7 @@ class DiseaseFrame(ContentFrame):
             result = self.prediction_service.predict_disease(self.current_image_path)
             
             if 'error' in result:
-                self._show_error(result['error'])
+                self.show_error(result['error'])
                 return
                 
             self._display_results(result)
@@ -129,12 +142,12 @@ class DiseaseFrame(ContentFrame):
                 disease_name=result['disease_name'],
                 confidence=result['confidence'],
                 image_path=self.current_image_path,
-                farm_id=None # Add farm selection later if needed
+                farm_id=None
             )
             
         except Exception as e:
             logger.error(f"Detection error: {e}")
-            self._show_error("An error occurred during detection.")
+            self.show_error("An error occurred during detection.")
         finally:
             self.detect_btn.configure(state="normal", text="Detect Disease")
             
@@ -142,33 +155,15 @@ class DiseaseFrame(ContentFrame):
         self.results_panel.clear()
         
         is_healthy = result.get('is_healthy', False)
-        color = "green" if is_healthy else "red"
         
-        # Display Name
-        self.results_panel.add_detail("Disease", result['display_name'])
+        results_dict = {
+            "Disease": result['display_name'],
+            "Confidence": f"{result['confidence'] * 100:.1f}%",
+            "Health Status": "Healthy" if is_healthy else "Diseased",
+            "Medicine / Spray": result.get('medicine', 'N/A'),
+            "Recommended Dosage": result.get('dosage', 'N/A'),
+            "Application Advice": result.get('advice', 'N/A')
+        }
         
-        # Confidence
-        conf_pct = f"{result['confidence'] * 100:.2f}%"
-        self.results_panel.add_detail("Confidence", conf_pct)
-        
-        # Treatment details
-        if not is_healthy:
-            self.results_panel.add_detail("Medicine", result.get('medicine', 'N/A'))
-            self.results_panel.add_detail("Dosage", result.get('dosage', 'N/A'))
-            
-        self.results_panel.add_detail("Advice", result.get('advice', 'N/A'))
-        
-        if result.get('simulation_mode'):
-            warning_label = ctk.CTkLabel(
-                self.results_panel.content_frame, 
-                text="⚠️ Note: Running in Simulation Mode (Model not loaded)", 
-                text_color="orange"
-            )
-            warning_label.pack(pady=5, anchor="w", padx=10)
-        
-        self.results_panel.pack(fill="x", padx=20, pady=(0, 20))
-        
-    def _show_error(self, message):
-        self.results_panel.clear()
-        self.results_panel.add_detail("Error", message)
-        self.results_panel.pack(fill="x", padx=20, pady=(0, 20))
+        self.results_panel.set_results(results_dict)
+        self.results_panel.pack(fill="x", padx=10, pady=(0, 20))

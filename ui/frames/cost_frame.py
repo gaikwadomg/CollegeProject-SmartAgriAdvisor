@@ -1,16 +1,15 @@
 import customtkinter as ctk
-from ui.frames.content_frame import ContentFrame
-from ui.components.cards import ThemeManager, InputGroup, ResultPanel
+
+from ui.base_frame import ContentFrame
+from ui.theme import ThemeManager
+from ui.components.input_group import InputGroup
+from ui.components.result_panel import ResultPanel
 from ui.components.chart_widget import ChartWidget
 from utils.logger import get_logger
-
-try:
-    from utils.helpers import format_currency
-except ImportError:
-    def format_currency(val):
-        return f"₹{val:,.2f}"
+from utils.helpers import format_currency
 
 logger = get_logger(__name__)
+
 
 class CostFrame(ContentFrame):
     def __init__(self, master, db, user, prediction_service=None, **kwargs):
@@ -23,17 +22,16 @@ class CostFrame(ContentFrame):
         self._setup_ui()
         
     def _setup_ui(self):
-        # Layout: Left side inputs, Right side results & charts
-        self.main_container = ctk.CTkFrame(self.scrollable_frame, fg_color="transparent")
-        self.main_container.pack(fill="both", expand=True, padx=20, pady=(0, 20))
+        self.main_container = ctk.CTkFrame(self.content_area, fg_color="transparent")
+        self.main_container.pack(fill="both", expand=True, padx=10, pady=(0, 20))
         self.main_container.grid_columnconfigure(0, weight=1)
         self.main_container.grid_columnconfigure(1, weight=1)
         
         # --- Left Column: Inputs ---
-        self.input_card = ctk.CTkFrame(self.main_container, fg_color=ThemeManager.get_color("card_bg"), corner_radius=12)
+        self.input_card = ctk.CTkFrame(self.main_container, fg_color=ThemeManager.get_color("card"), corner_radius=12)
         self.input_card.grid(row=0, column=0, sticky="nsew", padx=(0, 10))
         
-        input_title = ctk.CTkLabel(self.input_card, text="Cost & Revenue Inputs", font=ctk.CTkFont(size=16, weight="bold"))
+        input_title = ctk.CTkLabel(self.input_card, text="Cost & Revenue Inputs", font=ThemeManager.get_font("subheading"))
         input_title.pack(pady=(15, 10), padx=15, anchor="w")
         
         self.inputs = {}
@@ -47,7 +45,7 @@ class CostFrame(ContentFrame):
         ]
         
         for label, key in costs:
-            self.inputs[key] = InputGroup(self.input_card, label=label, placeholder="0")
+            self.inputs[key] = InputGroup(self.input_card, label=label, placeholder="0", input_type="number")
             self.inputs[key].pack(fill="x", padx=15, pady=5)
             
         revenue = [
@@ -56,14 +54,16 @@ class CostFrame(ContentFrame):
         ]
         
         for label, key in revenue:
-            self.inputs[key] = InputGroup(self.input_card, label=label, placeholder="0")
+            self.inputs[key] = InputGroup(self.input_card, label=label, placeholder="0", input_type="number")
             self.inputs[key].pack(fill="x", padx=15, pady=5)
             
         self.calc_btn = ctk.CTkButton(
             self.input_card,
             text="Calculate",
-            font=ctk.CTkFont(size=14, weight="bold"),
-            height=40,
+            font=ThemeManager.get_font("subheading"),
+            height=45,
+            fg_color=ThemeManager.get_color("primary"),
+            hover_color=ThemeManager.get_color("accent"),
             command=self._calculate
         )
         self.calc_btn.pack(pady=20, padx=15, fill="x")
@@ -88,11 +88,13 @@ class CostFrame(ContentFrame):
         
     def _calculate(self):
         try:
-            # Gather values (default to 0 if empty)
             vals = {}
             for k, inp in self.inputs.items():
-                val_str = inp.get().strip()
-                vals[k] = float(val_str) if val_str else 0.0
+                val_raw = inp.get_value()
+                try:
+                    vals[k] = float(val_raw) if val_raw else 0.0
+                except (ValueError, TypeError):
+                    vals[k] = 0.0
                 
             total_investment = vals['seed'] + vals['fertilizer'] + vals['pesticide'] + vals['labor'] + vals['other']
             expected_revenue = vals['yield'] * vals['price']
@@ -101,34 +103,32 @@ class CostFrame(ContentFrame):
             break_even = (total_investment / vals['price']) if vals['price'] > 0 else 0
             
             # Update Results
-            self.results_panel.clear()
-            self.results_panel.add_detail("Total Investment", format_currency(total_investment))
-            self.results_panel.add_detail("Expected Revenue", format_currency(expected_revenue))
-            
-            pl_color = "green" if profit_loss >= 0 else "red"
-            self.results_panel.add_detail("Profit / Loss", format_currency(profit_loss), text_color=pl_color)
-            self.results_panel.add_detail("ROI", f"{roi:.2f}%", text_color=pl_color)
-            self.results_panel.add_detail("Break-even Yield", f"{break_even:.2f} kg")
+            results_dict = {
+                "Total Investment": format_currency(total_investment),
+                "Expected Revenue": format_currency(expected_revenue),
+                "Profit / Loss": format_currency(profit_loss),
+                "ROI": f"{roi:.2f}%",
+                "Break-even Yield": f"{break_even:.2f} kg"
+            }
+            self.results_panel.set_results(results_dict)
             
             # Update Charts
             cost_labels = ["Seed", "Fertilizer", "Pesticide", "Labor", "Other"]
             cost_values = [vals['seed'], vals['fertilizer'], vals['pesticide'], vals['labor'], vals['other']]
             
             if sum(cost_values) > 0:
-                self.pie_chart.plot_pie_chart(
+                self.pie_chart.create_pie_chart(
+                    data=cost_values,
                     labels=cost_labels,
-                    sizes=cost_values,
                     title="Cost Breakdown"
                 )
                 
-            self.bar_chart.plot_bar_chart(
-                categories=["Investment", "Revenue", "Profit"],
-                values=[total_investment, expected_revenue, profit_loss],
-                title="Financial Summary",
-                ylabel="Amount (₹)"
+            self.bar_chart.create_bar_chart(
+                data=[total_investment, expected_revenue, profit_loss],
+                labels=["Investment", "Revenue", "Profit"],
+                title="Financial Summary"
             )
             
-            # Optionally save to database
             if self.prediction_service:
                 input_data = {
                     'seed_cost': vals['seed'],
@@ -155,10 +155,6 @@ class CostFrame(ContentFrame):
                     farm_id=None
                 )
                 
-        except ValueError:
-            self.results_panel.clear()
-            self.results_panel.add_detail("Error", "Please enter valid numeric values for all fields.", text_color="red")
         except Exception as e:
             logger.error(f"Cost calculation error: {e}")
-            self.results_panel.clear()
-            self.results_panel.add_detail("Error", "An unexpected error occurred.", text_color="red")
+            self.show_error("An error occurred during calculation.")
