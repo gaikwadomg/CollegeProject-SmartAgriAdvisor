@@ -93,9 +93,9 @@ class AuthService:
         """
         try:
             with self._db.get_session() as session:
-                user = session.query(User).filter_by(
-                    username=username.strip(),
-                    is_active=True
+                user = session.query(User).filter(
+                    func.lower(User.username) == func.lower(username.strip()),
+                    User.is_active == True
                 ).first()
 
                 if user is None:
