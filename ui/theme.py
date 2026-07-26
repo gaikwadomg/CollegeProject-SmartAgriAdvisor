@@ -5,28 +5,28 @@ class ThemeManager:
     
     _themes = {
         "dark": {
-            "bg": "#0f1117",
-            "surface": "#1a1d27",
-            "card": "#232736",
-            "primary": "#4CAF50",
-            "accent": "#66BB6A",
+            "bg": "#0B1511",
+            "surface": "#12201A",
+            "card": "#182C24",
+            "primary": "#198754",
+            "accent": "#2E7D32",
             "text": "#E8E8E8",
-            "text_secondary": "#9E9E9E",
+            "text_secondary": "#A8B2AE",
             "error": "#EF5350",
             "warning": "#FFA726",
-            "success": "#66BB6A"
+            "success": "#198754"
         },
         "light": {
-            "bg": "#F5F5F5",
+            "bg": "#F4F6F5",
             "surface": "#FFFFFF",
             "card": "#FFFFFF",
-            "primary": "#2E7D32",
-            "accent": "#43A047",
-            "text": "#212121",
-            "text_secondary": "#757575",
-            "error": "#EF5350",
-            "warning": "#FFA726",
-            "success": "#66BB6A"
+            "primary": "#0F5132",
+            "accent": "#198754",
+            "text": "#1A2521",
+            "text_secondary": "#5C6A65",
+            "error": "#C0392B",
+            "warning": "#B7950B",
+            "success": "#196F3D"
         }
     }
     

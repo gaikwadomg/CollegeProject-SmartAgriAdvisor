@@ -23,14 +23,49 @@ class Sidebar(ctk.CTkFrame):
         self._build_ui()
         
     def _build_ui(self):
+        # AgriSmart Branding Section
+        brand_frame = ctk.CTkFrame(self, fg_color="transparent")
+        brand_frame.pack(fill="x", pady=(20, 10), padx=15)
+        
+        logo_label = ctk.CTkLabel(
+            brand_frame,
+            text="🌱",
+            font=("Segoe UI", 28),
+            text_color=ThemeManager.get_color("primary")
+        )
+        logo_label.pack(side="left", padx=(0, 8))
+        
+        brand_text_frame = ctk.CTkFrame(brand_frame, fg_color="transparent")
+        brand_text_frame.pack(side="left", fill="both", expand=True)
+        
+        brand_title = ctk.CTkLabel(
+            brand_text_frame,
+            text="AgriSmart",
+            font=("Segoe UI", 18, "bold"),
+            text_color=ThemeManager.get_color("primary")
+        )
+        brand_title.pack(anchor="w")
+        
+        brand_subtitle = ctk.CTkLabel(
+            brand_text_frame,
+            text="Grow Better, Live Better",
+            font=("Segoe UI", 10),
+            text_color=ThemeManager.get_color("text_secondary")
+        )
+        brand_subtitle.pack(anchor="w")
+
+        # Separator
+        sep1 = ctk.CTkFrame(self, height=1, fg_color=ThemeManager.get_color("card"))
+        sep1.pack(fill="x", padx=15, pady=(10, 10))
+
         # User Info Section
         user_frame = ctk.CTkFrame(self, fg_color="transparent")
-        user_frame.pack(fill="x", pady=20, padx=15)
+        user_frame.pack(fill="x", pady=(0, 15), padx=15)
         
         avatar_label = ctk.CTkLabel(
             user_frame,
             text="👤",
-            font=("Segoe UI", 32),
+            font=("Segoe UI", 24),
             text_color=ThemeManager.get_color("primary")
         )
         avatar_label.pack(side="left", padx=(0, 10))
@@ -58,8 +93,8 @@ class Sidebar(ctk.CTkFrame):
         role_label.pack(anchor="w")
         
         # Separator
-        sep = ctk.CTkFrame(self, height=1, fg_color=ThemeManager.get_color("card"))
-        sep.pack(fill="x", padx=15, pady=(0, 10))
+        sep2 = ctk.CTkFrame(self, height=1, fg_color=ThemeManager.get_color("card"))
+        sep2.pack(fill="x", padx=15, pady=(5, 10))
         
         # Scrollable Menu
         self.menu_frame = ctk.CTkScrollableFrame(
