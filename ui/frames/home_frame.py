@@ -17,6 +17,8 @@ from PIL import Image
 
 from ui.base_frame import ContentFrame
 from ui.theme import ThemeManager
+from ui.components.input_group import InputGroup
+from utils.constants import CROPS, SOIL_TYPES
 from config.settings import Settings
 from database.models import Prediction, Farm
 from utils.logger import get_logger
