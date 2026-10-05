@@ -36,6 +36,27 @@ class PredictionService:
             db_manager: DatabaseManager instance
         """
         self._db = db_manager
+        self._disease_predictor = None
+
+    @property
+    def disease_predictor(self):
+        """Lazy load disease predictor instance."""
+        if self._disease_predictor is None:
+            try:
+                from ml.disease.predict import DiseasePredictor
+                self._disease_predictor = DiseasePredictor()
+            except Exception as e:
+                logger.error(f"Failed to load DiseasePredictor in service: {e}")
+        return self._disease_predictor
+
+    def predict_disease(self, image_path: str) -> Dict[str, Any]:
+        """Execute disease prediction on an image file."""
+        if self.disease_predictor:
+            return self.disease_predictor.predict(image_path)
+        else:
+            from ml.disease.predict import DiseasePredictor
+            dp = DiseasePredictor()
+            return dp.predict(image_path)
 
     # ── Save Prediction ───────────────────────────────────────────────
 
@@ -44,24 +65,21 @@ class PredictionService:
         user_id: int,
         prediction_type: str,
         input_data: Dict[str, Any],
-        result_data: Dict[str, Any],
+        result_data: Optional[Dict[str, Any]] = None,
         confidence: Optional[float] = None,
-        farm_id: Optional[int] = None
+        farm_id: Optional[int] = None,
+        result: Optional[Dict[str, Any]] = None
     ) -> Optional[int]:
         """
-        Save a prediction result to the database.
-
-        Args:
-            user_id: ID of the user making the prediction
-            prediction_type: Type of prediction (e.g., 'crop_recommendation')
-            input_data: Input parameters as a dictionary
-            result_data: Prediction results as a dictionary
-            confidence: Optional confidence score (0-1)
-            farm_id: Optional associated farm ID
-
-        Returns:
-            Prediction ID on success, None on failure
+        Save a prediction result to the database. Accepts either result_data or result kwarg.
         """
+        final_result = result_data if result_data is not None else result
+        if final_result is None:
+            final_result = {}
+
+        if confidence is None:
+            confidence = final_result.get("confidence", 0.85)
+
         try:
             with self._db.get_session() as session:
                 prediction = Prediction(
@@ -69,7 +87,7 @@ class PredictionService:
                     farm_id=farm_id,
                     prediction_type=prediction_type,
                     input_data=input_data,
-                    result_data=result_data,
+                    result_data=final_result,
                     confidence=confidence,
                     created_at=datetime.utcnow()
                 )
@@ -109,18 +127,6 @@ class PredictionService:
     ) -> Optional[int]:
         """
         Save a disease detection result.
-
-        Args:
-            user_id: User ID
-            disease_name: Detected disease name
-            confidence: Detection confidence
-            image_path: Path to the uploaded image
-            crop_name: Detected crop name
-            recommendation: Treatment recommendation
-            farm_id: Optional farm ID
-
-        Returns:
-            Record ID on success
         """
         try:
             with self._db.get_session() as session:
@@ -152,13 +158,6 @@ class PredictionService:
     ) -> List[Dict[str, Any]]:
         """
         Get the most recent predictions for a user.
-
-        Args:
-            user_id: User ID
-            limit: Maximum number of results
-
-        Returns:
-            List of prediction dictionaries
         """
         try:
             with self._db.get_session() as session:
@@ -187,16 +186,7 @@ class PredictionService:
             return []
 
     def get_prediction_count(self, user_id: int, prediction_type: Optional[str] = None) -> int:
-        """
-        Get the total count of predictions for a user.
-
-        Args:
-            user_id: User ID
-            prediction_type: Optional filter by type
-
-        Returns:
-            Count of predictions
-        """
+        """Get total count of predictions for a user."""
         try:
             with self._db.get_session() as session:
                 query = session.query(Prediction).filter_by(user_id=user_id)
@@ -208,16 +198,7 @@ class PredictionService:
             return 0
 
     def get_disease_count(self, user_id: int, healthy_only: bool = False) -> int:
-        """
-        Get count of disease records.
-
-        Args:
-            user_id: User ID
-            healthy_only: If True, count only healthy records
-
-        Returns:
-            Count of disease records
-        """
+        """Get count of disease records."""
         try:
             with self._db.get_session() as session:
                 query = session.query(DiseaseRecord).filter_by(user_id=user_id)
